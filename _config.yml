@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "http://www.markdowntutorial.com/"
   Publications: "http://deanattali.com/beautiful-jekyll/"
-#     - M: "http://www.markdowntutorial.com/"
+  CV: "http://www.markdowntutorial.com/"
   Miscellaneous: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
