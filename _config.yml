@@ -167,9 +167,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "aboutme"
     values:
-      layout: "post"
+      layout: "aboutme"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
