@@ -3,15 +3,15 @@ layout: page
 title: Projects
 ---
 
--Reverse Turing Test:
+* Reverse Turing Test:
 
 
--Autonomy Technology Research Center, Air Force Research Lab:
+* Autonomy Technology Research Center, Air Force Research Lab:
 
 
--Numerical Simulation of Vibrations of Mechanical Structures:
+* Numerical Simulation of Vibrations of Mechanical Structures:
 
--Hackathons:
---Chrome extension:
---Shiny project
+* Hackathons:
+  * Chrome extension:
+  * Shiny project
 
