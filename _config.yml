@@ -34,7 +34,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /path/to/Adaku-Uchendu.jpg
+title-img: /img/Adaku-Uchendu.jpg
 
 # --- Background colour/image options --- #
 
