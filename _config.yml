@@ -70,7 +70,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "adaku2@umbc.edu"
+  email: "azu5030@psu.edu"
 #   facebook: deanattali
   github: AdaUchendu
 #   twitter: daattali
@@ -164,22 +164,22 @@ paginate: 5
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
-# defaults:
-#   -
-#     scope:
-#       path: "aboutme"
-#       type: "aboutme"
-#     values:
-#       layout: "aboutme"
-#       comments: true  # add comments to all blog posts
-#       social-share: true # add social media sharing buttons to all blog posts
-#   -
-#     scope:
-#       path: "aboutme" # all files
-#     values:
-#       layout: "page"
-#       show-avatar: true
+Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: "aboutme"
+      type: "aboutme"
+    values:
+      layout: "aboutme"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "aboutme" # all files
+    values:
+      layout: "page"
+      show-avatar: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
