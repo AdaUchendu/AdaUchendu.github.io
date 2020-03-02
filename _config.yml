@@ -6,8 +6,6 @@ title: Adaku Uchendu
 # Short description of your site
 description: A virtual proof that I'm awesome
 
-subtitle: This stuff is annoying me 
-
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -23,18 +21,18 @@ subtitle: This stuff is annoying me
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
-  Publications: "projects"
+  Projects: "http://www.markdowntutorial.com/"
+  Publications: "http://deanattali.com/beautiful-jekyll/"
   CV: "http://www.markdowntutorial.com/"
   Miscellaneous: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/ver2.jpg"
+avatar: "/img/Adaku-Uchendu.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/Adaku-Uchendu.jpg
+# title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -70,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "azu5030@psu.edu"
+  email: "adaku2@umbc.edu"
 #   facebook: deanattali
   github: AdaUchendu
 #   twitter: daattali
@@ -146,11 +144,11 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-# excerpt_length: 50
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-# title-separator: "-"
+title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -168,7 +166,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "aboutme"
+      path: ""
       type: "aboutme"
     values:
       layout: "aboutme"
@@ -176,7 +174,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "aboutme" # all files
+      path: "" # all files
     values:
       layout: "page"
       show-avatar: true
