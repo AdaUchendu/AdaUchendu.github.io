@@ -23,8 +23,8 @@ subtitle: This stuff is annoying me
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: # "projects"
-  Publications: "http://deanattali.com/beautiful-jekyll/"
+  Projects: "projects"
+  Publications: 
   CV: "http://www.markdowntutorial.com/"
   Miscellaneous: "http://deanattali.com"
 
