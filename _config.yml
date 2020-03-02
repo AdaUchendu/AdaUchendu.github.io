@@ -24,7 +24,7 @@ subtitle: This stuff is annoying me
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Publications: 
+  Publications: "projects"
   CV: "http://www.markdowntutorial.com/"
   Miscellaneous: "http://deanattali.com"
 
