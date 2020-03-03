@@ -5,7 +5,7 @@ title: Adaku Uchendu
 ---
 I graduated from the University of Maryland Baltimore County with a B.S in Mathematics and a minor 
 in Statistics in May 2018. I am currently pursuing a Ph.D. in Information Sciences and Technology at The
-Pennsylvania State University under, [Dr. Dongwon Lee](http://pike.psu.edu/dongwon/) at the [PIKE Lab](http://pike.psu.edu/). My research interests are Artificial Intelligence, Machine Learning, and 
+Pennsylvania State University under the guidance of [Dr. Dongwon Lee](http://pike.psu.edu/dongwon/) at the [PIKE Lab](http://pike.psu.edu/). My research interests are Artificial Intelligence, Machine Learning, and 
 Data mining in the application domain of Cybersecurity. 
 
 Specifically, I am interested in research that leverages data mining and machine learning techniques to 
