@@ -52,9 +52,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/ver2.jpg"
-footer-img: "/img/ver2.jpg"
-page-img: "/img/ver2.jpg"
+# navbar-img: "/img/ver2.jpg"
+# footer-img: "/img/ver2.jpg"
+# page-img: "/img/ver2.jpg"
 
 # --- Footer options --- #
 
@@ -69,7 +69,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "adaku2@umbc.edu"
+  email: "azu5030@psu.edu"
 #   facebook: deanattali
   github: AdaUchendu
 #   twitter: daattali
