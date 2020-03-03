@@ -1,5 +1,9 @@
 # --- General options --- #
 
+# url is the the website domain URL without a trailing slash
+url: "https://adauchendu.github.io"
+baseurl: ""
+
 # Name of website
 title: Adaku Uchendu
 
@@ -10,8 +14,6 @@ description: A virtual proof that I'm awesome
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -68,7 +70,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "azu5030@psu.edu"
 #   facebook: deanattali
   github: AdaUchendu
@@ -170,9 +172,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+#       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+#       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
@@ -196,7 +198,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: 'aboutme'
+  rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html
@@ -208,43 +210,43 @@ prose:
     - /css
     - /img
     - /js
-#   metadata:
-#     _posts:
-#       - name: "layout"
-#         field:
-#           element: "hidden"
-#           value: "post"
-#       - name: "title"
-#         field:
-#           element: "text"
-#           label: "Post title"
-#           placeholder: "Title"
-#           alterable: true
-#       - name: "subtitle"
-#         field:
-#           element: "textarea"
-#           label: "Subtitle"
-#           placeholder: "A description of your post."
-#           alterable: true
-#       - name: "date"
-#         field:
-#           element: "text"
-#           label: "Date"
-#           help: "Enter date of post."
-#           placeholder: "yyyy-mm-dd"
-#           alterable: true
-#       - name: "image"
-#         field:
-#           element: "text"
-#           label: "Image"
-#           help: "Add a thumbnail image to your post."
-#           placeholder: "Thumbnail"
-#           alterable: true
-#       - name: "published"
-#         field:
-#           element: "checkbox"
-#           label: "Publish"
-#           help: "Check to publish post, uncheck to hide."
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
 plugins:
   - jekyll-paginate
