@@ -4,7 +4,7 @@ title: Research and Work Experiences
 
 ---
 
-**August 2018 - Present:** Pennsylvania State University 
+**August 2018 - Present:** Pennsylvania State University \\
 Research Assistant at [PIKE Lab](http://pike.psu.edu/)
 
 **May 2019 - August 2019:** Air Force Research Laboratory (AFRL)
