@@ -19,10 +19,11 @@ Texts," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019
   * 18th Annual McNair Scholars Research Conference at University of Maryland, College Park, 2017
   * 25th Annual McNair Scholars Research Conference at University of Maryland Baltimore County (UMBC), 2017
   * 19th Annual McNair Scholars Research Conference at University of Maryland, College Park, 2018
+  * Undergraduate Research And Creative Achievement Day (URCAD) at UMBC, 2018
+
 
 * *Graduate*:
   * Penn State Global Careers Institute, 2020
-  * Undergraduate Research And Creative Achievement Day (URCAD) at UMBC, 2018
   * 2020 CRA-WP Grad Cohort for Underrepresented Minorities and Persons with Disabilities (URMD)
   * WiCyS (Women in Cybersecurity) 2020 Conference 
   * 2020 CRA-WP Grad Cohort for Women
