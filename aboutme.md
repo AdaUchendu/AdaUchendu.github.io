@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Adaku Uchendu 
+
 ---
 I graduated from the University of Maryland Baltimore County with a B.S in Mathematics and a minor 
 in Statistics in May 2018. I am currently pursuing a Ph.D. in Information Sciences and Technology at 
