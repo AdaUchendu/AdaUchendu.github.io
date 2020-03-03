@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Publications: "http://deanattali.com/beautiful-jekyll/"
+  Publications: "publications"
   CV: "http://www.markdowntutorial.com/"
   Miscellaneous: "http://deanattali.com"
 
