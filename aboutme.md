@@ -11,8 +11,7 @@ Data mining in the application domain of Cybersecurity.
 
 Specifically, I am interested in research that leverages data mining and machine learning techniques to 
 solve issues that have security implications. Currently, I am working on a project that uses NLP (Natural 
-Language Processing) techniques to distinguish machine-generated texts from human-generated texts.  
-My ultimate goal is to find subtle linguistic patterns that differentiate human-generated texts from 
+Language Processing) techniques to distinguish machine-generated texts from human-generated texts. My ultimate goal is to find subtle linguistic patterns that differentiate human-generated texts from 
 machine-generated in order to better detect these text-generators. 
 
 Also, for fun you can view this [page](https://news.umbc.edu/adaku-uchendu-to-extend-passion-for-mathematics-through-information-sciences-ph-d-at-penn-state/) that talks about me. 
