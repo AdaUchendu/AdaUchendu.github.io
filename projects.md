@@ -13,6 +13,6 @@ Used deep learning and computer vision techniques to perform experiments on sate
 This project required me to use Matlab, Matrix analysis and partial differential equations to model a 3D structure and to solve for the mass, stiffness and damping matrices. These were important because the goal of the research was to mitigate the effects of earthquakes in earthquake-prone areas by finding the appropriate damping constant. When the damping constant is applied to structures, it will allow the structures to withstand the effects of earthquakes. This resulted in my [senior thesis](https://userpages.umbc.edu/~sousedik/classes/slides/undergraduate/slides_Adaku_Uchendu.pdf)
 
 * **Hackathons:**
-  * **Chrome extension:** Procastination Avoidance tool that times out and gives you 3 arithmetic math questions to solve after an hour on Facebook. It is called [ProcrastinationStation](https://chrome.google.com/webstore/detail/procrastinationstation/iogijohedmhahconojcpdbgedljphkmk)
+  * **Chrome extension:** Procastination Avoidance tool that times out and gives you 3 arithmetic math questions to solve after an hour on Facebook. It is called [ProcrastinationStation](https://chrome.google.com/webstore/detail/procrastinationstation/iogijohedmhahconojcpdbgedljphkmk). You can test it out [here](http://procrastination-station.com/). 
   * **Shiny project:** Data Visualization [tool](https://adaku.shinyapps.io/DataVisuals/)
 
