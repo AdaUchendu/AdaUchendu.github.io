@@ -28,8 +28,6 @@ Texts," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019
 
   * Penn State Global Careers Institute, 2020
   * 2020 CRA-WP Grad Cohort for Underrepresented Minorities and Persons with Disabilities (URMD)
-  * WiCyS (Women in Cybersecurity) 2020 Conference 
-  * 2020 CRA-WP Grad Cohort for Women
 
 
 
