@@ -13,7 +13,7 @@ Texts," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019
 
 
 **Conferences/Workshops:**
-* *Undergrdauate*:
+* *Undergraduate*:
 
   * 24th Annual McNair Scholars Research Conference at University of Washington, Seattle, 2016
   * 24th Annual McNair Scholars Research Conference at University of Maryland Baltimore County (UMBC), 2016
