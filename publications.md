@@ -12,22 +12,6 @@ Shao, J., **Uchendu, A.**, & Lee, D. (2019). "A Reverse Turing Test for Detectin
 Texts," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019
 
 
-**Conferences/Workshops:**
-* *Undergraduate*:
-
-  * 24th Annual McNair Scholars Research Conference at University of Washington, Seattle, 2016
-  * 24th Annual McNair Scholars Research Conference at University of Maryland Baltimore County (UMBC), 2016
-  * 18th Annual McNair Scholars Research Conference at University of Maryland, College Park, 2017
-  * 25th Annual McNair Scholars Research Conference at University of Maryland Baltimore County (UMBC), 2017
-  * 19th Annual McNair Scholars Research Conference at University of Maryland, College Park, 2018
-  * Undergraduate Research And Creative Achievement Day (URCAD) at UMBC, 2018
-
-
-
-* *Graduate*:
-
-  * Penn State Global Careers Institute, 2020
-  * 2020 CRA-WP Grad Cohort for Underrepresented Minorities and Persons with Disabilities (URMD)
 
 
 
