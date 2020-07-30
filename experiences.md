@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Research and Work   
-
 ---
 
 **August 2018 - Present:** Pennsylvania State University <br />
