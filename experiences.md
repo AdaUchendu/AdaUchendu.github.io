@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and Work Experiences  
+title: Research and Work   
 
 ---
 
