@@ -5,6 +5,9 @@ layout: page
 **August 2018 - Present:** Pennsylvania State University <br />
 Research Assistant at [PIKE Lab](http://pike.psu.edu/)
 
+**May 2020 - October 2020:** Air Force Research Laboratory (AFRL) <br />
+Research Intern at Autonomy Technology Research Center (ATRC)
+
 **May 2019 - August 2019:** Air Force Research Laboratory (AFRL) <br />
 Research Intern at Autonomy Technology Research Center (ATRC)
 
