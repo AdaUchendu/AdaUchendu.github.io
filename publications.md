@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation],"(http://pike.psu.edu/publications/emnlp20.pdf)"
+**Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](http://pike.psu.edu/publications/emnlp20.pdf),"
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020
 
 **Uchendu, A.**, Cao, J., Wang, Q., Luo, B., & Lee, D. "[Characterizing Man-made vs. Machine-made
