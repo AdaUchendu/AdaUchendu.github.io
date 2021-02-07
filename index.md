@@ -14,6 +14,7 @@ Specifically, I am interested in:
 
 
 Press:
+* [Researchers test detection methods for AI-generated content](https://news.psu.edu/story/646731/2021/02/05/research/researchers-test-detection-methods-ai-generated-content) 2021
 * [Siblings pursue parallel doctoral degrees](https://news.psu.edu/story/629083/2020/08/20/academics/siblings-pursue-parallel-doctoral-degrees) 2020
 * [Adaku Uchendu to extend passion for mathematics through information sciences Ph.D. at Penn State](https://news.umbc.edu/adaku-uchendu-to-extend-passion-for-mathematics-through-information-sciences-ph-d-at-penn-state/) 2018
 * [Get to know a Tutor](https://lrc.umbc.edu/tutor/get-to-know-a-tutor/adaku-uchendu/) 2018
