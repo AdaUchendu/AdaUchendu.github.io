@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
+
 
 **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](http://pike.psu.edu/publications/emnlp20.pdf),"
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
