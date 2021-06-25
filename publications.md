@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conference Proceedings 
+title: Publications 
 ---
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
