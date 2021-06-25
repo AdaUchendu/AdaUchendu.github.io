@@ -4,6 +4,7 @@ title: Publications
 ---
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
+# Conference Proceddings #
 
 **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](http://pike.psu.edu/publications/emnlp20.pdf),"
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
@@ -17,8 +18,7 @@ Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)," In 11th Int'l ACM We
 
 
 ---
-Invited Talks
----
+# Invited Talks #
 
 [Reverse Turing Tests for Distinguishing AI-generated texts from Human-written texts](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
 Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
