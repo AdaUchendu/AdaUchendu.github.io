@@ -8,5 +8,10 @@ I am a **Model Car Collector/Enthusiast** so if you are interested, feel free to
 
 ![image](modelcars.jpeg)
 
-My custom-made model car display case
+---
+## My custom-made model car display case ##
+- The top two are:
+  - BMW X6 (1/18 scale)
+  - Tesla Model X (1/18 scale)
+ 
 ![image](img/case.jpg)
