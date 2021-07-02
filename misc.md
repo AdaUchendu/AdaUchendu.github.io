@@ -8,4 +8,5 @@ I am a **Model Car Collector/Enthusiast** so if you are interested, feel free to
 
 ![image](modelcars.jpeg)
 
+My custom-made model car display case
 ![image](img/case.jpg)
