@@ -22,3 +22,28 @@ Texts](https://dl.acm.org/doi/pdf/10.1145/3292522.3326042)," In 11th Int'l ACM W
 
 [Reverse Turing Tests](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
 Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
+
+
+<!-- ---
+# Conference/Workshop Attended #
+
+* *Graduate*:
+
+  * Penn State Global Careers Institute, 2020
+  * 2020 CRA-WP Grad Cohort for Underrepresented Minorities and Persons with Disabilities (URMD)
+  * 2020 ACM Richard Tapia Celebration of Diversity in Computing Conference
+  * 2021 CRA-WP Grad Cohort Workshop for Women
+  * 2021 Women in Cybersecurity (WiCyS) Conference 
+  * 2021 ACM Richard Tapia Celebration of Diversity in Computing Conference
+
+
+**Conferences/Workshops:**
+* *Undergraduate*:
+
+  * 24th Annual McNair Scholars Research Conference at University of Washington, Seattle, 2016
+  * 24th Annual McNair Scholars Research Conference at University of Maryland Baltimore County (UMBC), 2016
+  * 18th Annual McNair Scholars Research Conference at University of Maryland, College Park, 2017
+  * 25th Annual McNair Scholars Research Conference at University of Maryland Baltimore County (UMBC), 2017
+  * 19th Annual McNair Scholars Research Conference at University of Maryland, College Park, 2018
+  * Undergraduate Research And Creative Achievement Day (URCAD) at UMBC, 2018
+ -->
