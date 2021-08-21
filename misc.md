@@ -14,4 +14,4 @@ I am a **Model Car Collector/Enthusiast** so if you are interested, feel free to
   - BMW X6 (1/18 scale)
   - Tesla Model X (1/18 scale)
  
-![image](img/case.jpg)
+![image](img/another_case.jpg)
