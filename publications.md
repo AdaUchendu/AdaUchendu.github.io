@@ -15,7 +15,7 @@ In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Ev
 Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf)," In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
 
 * Shao, J., **Uchendu, A.**, & Lee, D. (2019). "[A Reverse Turing Test for Detecting Machine-Made
-Texts](https://dl.acm.org/doi/pdf/10.1145/3292522.3326042)," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
+Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
 
 
