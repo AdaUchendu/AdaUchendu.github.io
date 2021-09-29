@@ -6,7 +6,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # Conference Proceedings  #
 
-* **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang and Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](http://pike.psu.edu/publications/emnlp21.pdf)," In Proceedings of the *Findings* of the 2021 Empirical Methods in Natural Language Processing (EMNLP), Punta Cana, Dominican Republic, November 2021.
+* **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang and Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296)," In Proceedings of the *Findings* of the 2021 Empirical Methods in Natural Language Processing (EMNLP), Punta Cana, Dominican Republic, November 2021.
 
 * **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf),"
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
