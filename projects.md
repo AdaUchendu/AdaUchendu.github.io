@@ -17,8 +17,13 @@ newton-raphson, quasi-newton) and another evolutionary algorithm, Particle Swarm
 * **Black-box Adversarial Robustness:**
 Used deep learning and computer vision techniques to perform experiments on satellite data. The goal of the project was to assess the robustness of the image classification model by using a nuanced black-box adversarial technique to attack the model. This project is classified under the Distribution Statement C which prevents me from giving any further details regarding the project. 
 
+
 * **Numerical Simulation of Vibrations of Mechanical Structures:**
 This project required me to use Matlab, Matrix analysis and partial differential equations to model a 3D structure and to solve for the mass, stiffness and damping matrices. These were important because the goal of the research was to mitigate the effects of earthquakes in earthquake-prone areas by finding the appropriate damping constant. When the damping constant is applied to structures, it will allow the structures to withstand the effects of earthquakes. This resulted in my [senior thesis](https://userpages.umbc.edu/~sousedik/classes/slides/undergraduate/slides_Adaku_Uchendu.pdf)
+
+<!-- <div style="float:left;vertical-align:top">
+<img src="/img/num.PNG" alt="drawing" width="200"/>
+ </div> -->
 
 * **Hackathons:**
   * **Chrome extension:** Procastination Avoidance tool that times out and gives you 3 arithmetic math questions to solve after an hour on Facebook. It is called [ProcrastinationStation](https://chrome.google.com/webstore/detail/procrastinationstation/iogijohedmhahconojcpdbgedljphkmk). You can test it out [here](http://procrastination-station.com/). 
