@@ -6,7 +6,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # Conference Proceedings  #
 
-* **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart,  Alexandra  Hildenbrandt,  "Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks," fourth IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021.
+* **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart,  Alexandra  Hildenbrandt,  "Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks," Fourth IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021.
 
 * **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang and Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296)," In Proceedings of the *Findings* of the 2021 Empirical Methods in Natural Language Processing (EMNLP), Punta Cana, Dominican Republic, November 2021.
 
