@@ -6,15 +6,17 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # Conference Proceedings  #
 
+* **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart,  Alexandra  Hildenbrandt,  "Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks," fourth IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021.
+
 * **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang and Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296)," In Proceedings of the *Findings* of the 2021 Empirical Methods in Natural Language Processing (EMNLP), Punta Cana, Dominican Republic, November 2021.
 
 * **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf),"
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
 
-* **Uchendu, A.**, Cao, J., Wang, Q., Luo, B., & Lee, D. "[Characterizing Man-made vs. Machine-made
+* **Adaku Uchendu**, Jeffrey Cao, Qiaozhi Wang, Bo Luo, Dongwon Lee. "[Characterizing Man-made vs. Machine-made
 Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf)," In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
 
-* Shao, J., **Uchendu, A.**, & Lee, D. (2019). "[A Reverse Turing Test for Detecting Machine-Made
+* Jialin Shao, **Adaku Uchendu**, Dongwon Lee. (2019). "[A Reverse Turing Test for Detecting Machine-Made
 Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
 
