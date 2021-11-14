@@ -8,7 +8,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 * **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt,  "Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks," IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021.
 
-* **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296)," In Proceedings of the *Findings* of the 2021 Empirical Methods in Natural Language Processing (EMNLP), Punta Cana, Dominican Republic, November 2021. <em>(Acceptance Rate: 11.6% (419/3,600))</em>
+* **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296),"  In Findings of the Association for Computational Linguistics: EMNLP 2021 (pp. 2001-2016). <em>(Acceptance Rate: 11.6% (419/3,600))</em>
 
 * **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf),"
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
