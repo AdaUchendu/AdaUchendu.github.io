@@ -14,9 +14,11 @@ Specifically, I am interested in:
 
 
 Press Mentions:
-* [Is AI the Future of Content Generation?](https://www.bloggersinsights.com/blog/technology-web/is-ai-the-future-of-content-generation-bid-440.html) 2021
-* [Five top technology trends from 2021 that are here to stay](https://www.ericsson.com/en/blog/2021/6/technology-trends-2021-here-to-stay) 2021
-* [Researchers test detection methods for AI-generated content](https://news.psu.edu/story/646731/2021/02/05/research/researchers-test-detection-methods-ai-generated-content) 2021
-* [Siblings pursue parallel doctoral degrees](https://news.psu.edu/story/629083/2020/08/20/academics/siblings-pursue-parallel-doctoral-degrees) 2020
-* [Adaku Uchendu to extend passion for mathematics through information sciences Ph.D. at Penn State](https://news.umbc.edu/adaku-uchendu-to-extend-passion-for-mathematics-through-information-sciences-ph-d-at-penn-state/) 2018
-* [Get to know a Tutor](https://lrc.umbc.edu/tutor/get-to-know-a-tutor/adaku-uchendu/) 2018
+* [Is AI the Future of Content Generation?](https://www.bloggersinsights.com/blog/technology-web/is-ai-the-future-of-content-generation-bid-440.html) (Bloggers Insight, August 2021)
+* [Five top technology trends from 2021 that are here to stay](https://www.ericsson.com/en/blog/2021/6/technology-trends-2021-here-to-stay) (Ericsson Blog, June 2021)
+* [Finance's Embrace Of AI-Generated Writing](https://robotwritersai.com/2021/03/01/finances-embrace-of-ai-generated-writing-2/) (Robot Writers AI, March 2021)
+* [Researchers test detection methods for AI-generated content](https://news.psu.edu/story/646731/2021/02/05/research/researchers-test-detection-methods-ai-generated-content) (Penn State News, February 2021)
+* [Siblings pursue parallel doctoral degrees](https://news.psu.edu/story/629083/2020/08/20/academics/siblings-pursue-parallel-doctoral-degrees) (Penn State News, August 2020)
+* [Adaku Uchendu to extend passion for mathematics through information sciences Ph.D. at Penn State](https://news.umbc.edu/adaku-uchendu-to-extend-passion-for-mathematics-through-information-sciences-ph-d-at-penn-state/) (UMBC News, April 2018)
+<!-- * [Get to know a Tutor](https://lrc.umbc.edu/tutor/get-to-know-a-tutor/adaku-uchendu/) 2018
+ -->
