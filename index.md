@@ -13,7 +13,7 @@ Specifically, I am interested in:
 
 
 
-Press Mentions:
+**Press Mentions:** 
 * [Is AI the Future of Content Generation?](https://www.bloggersinsights.com/blog/technology-web/is-ai-the-future-of-content-generation-bid-440.html) (Bloggers Insight, August 2021)
 * [Five top technology trends from 2021 that are here to stay](https://www.ericsson.com/en/blog/2021/6/technology-trends-2021-here-to-stay) (Ericsson Blog, June 2021)
 * [Finance's Embrace Of AI-Generated Writing](https://robotwritersai.com/2021/03/01/finances-embrace-of-ai-generated-writing-2/) (Robot Writers AI, March 2021)
