@@ -25,8 +25,10 @@ Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)," In 11th Int'l ACM We
 ---
 # Invited Talks #
 
-[Reverse Turing Tests for Distinguishing AI-generated texts from Human-written texts](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
+* [Reverse Turing Tests for Distinguishing AI-generated texts from Human-written texts](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
 Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
+
+* Reverse Turing Test in the Age of Neural Text Generation, at National Institute of Standards and Technology (NIST), Information Technology Laboratory, Software and Systems Division, Virtual, February 10, 2022.
 
 
 <!-- ---
