@@ -6,19 +6,30 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # Conference Proceedings  #
 
-* **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt,  "[Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591)," IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021. 
+* [Tutorial on Artificial Text Detection](https://arxiv.org/abs/2111.08591) <br>
+**Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
+The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**)
+
+* [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
+**Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt <br>
+IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021. 
 <!-- * <em>(Full paper Acceptance Rate: 30.95% (13/42))</em>
  -->
-* **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee. "[TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296),"  In Findings of the Association for Computational Linguistics: EMNLP 2021 (pp. 2001-2016). <em>(Acceptance Rate: 11.6% (419/3,600))</em>
+* [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
+**Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee <br>
+In Findings of the Association for Computational Linguistics: EMNLP 2021 (pp. 2001-2016). <em>(Acceptance Rate: 11.6% (419/3,600))</em>
 
-* **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. "[Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf),"
+* [Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) <br>
+**Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. <br>
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
 
-* **Adaku Uchendu**, Jeffrey Cao, Qiaozhi Wang, Bo Luo, Dongwon Lee. "[Characterizing Man-made vs. Machine-made
-Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf)," In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
+* [Characterizing Man-made vs. Machine-made Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf) <br>
+**Adaku Uchendu**, Jeffrey Cao, Qiaozhi Wang, Bo Luo, Dongwon Lee. <br> 
+In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
 
-* Jialin Shao, **Adaku Uchendu**, Dongwon Lee. (2019). "[A Reverse Turing Test for Detecting Machine-Made
-Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)," In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
+* [A Reverse Turing Test for Detecting Machine-Made Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)
+Jialin Shao, **Adaku Uchendu**, Dongwon Lee. (2019). <br> 
+In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
 
 
