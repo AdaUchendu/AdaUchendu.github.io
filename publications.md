@@ -6,7 +6,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # Conference Proceedings  #
 
-* [Tutorial on Artificial Text Detection](https://arxiv.org/abs/2111.08591) <br>
+* [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
 **Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
 The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**)
 
