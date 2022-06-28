@@ -13,7 +13,9 @@ Specifically, I am interested in:
 
 
 
-**Press Mentions:** 
+**Press Mentions:**
+* [State College community acknowledges past, celebrates present at Juneteenth festival](https://www.collegian.psu.edu/news/borough/state-college-community-acknowledges-past-celebrates-present-at-juneteenth-festival/article_be991856-ef6f-11ec-a22c-2b87aa9aeddd.html) (State College News, June 2022)
+* [Mission Possible: making Northeast Ohio a top draw for talent](https://www.wkyc.com/article/news/local/jobs/northeast-ohio-talent-recruiting/95-3c2b0096-635a-4621-beaf-1fba216e1167) (WKYC Cleveland, April 2022)
 * [Is AI the Future of Content Generation?](https://www.bloggersinsights.com/blog/technology-web/is-ai-the-future-of-content-generation-bid-440.html) (Bloggers Insight, August 2021)
 * [Five top technology trends from 2021 that are here to stay](https://www.ericsson.com/en/blog/2021/6/technology-trends-2021-here-to-stay) (Ericsson Blog, June 2021)
 * [Finance's Embrace Of AI-Generated Writing](https://robotwritersai.com/2021/03/01/finances-embrace-of-ai-generated-writing-2/) (Robot Writers AI, March 2021)
