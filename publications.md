@@ -27,7 +27,7 @@ In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Ev
 **Adaku Uchendu**, Jeffrey Cao, Qiaozhi Wang, Bo Luo, Dongwon Lee. <br> 
 In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
 
-* [A Reverse Turing Test for Detecting Machine-Made Texts](http://pike.psu.edu/publications/websci19-rtt.pdf)
+* [A Reverse Turing Test for Detecting Machine-Made Texts](http://pike.psu.edu/publications/websci19-rtt.pdf) <br> 
 Jialin Shao, **Adaku Uchendu**, Dongwon Lee. (2019). <br> 
 In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
