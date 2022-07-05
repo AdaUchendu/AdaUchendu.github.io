@@ -10,6 +10,7 @@ Specifically, I am interested in:
 * NLP (Natural Language Processing)
 * NLG (Natural Language Generation) 
 * Adversarial Robustness (both in Computer Vision and NLP)
+* TDA (Topological Data Analysis)
 
 
 
