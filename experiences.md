@@ -5,6 +5,9 @@ layout: page
 **August 2018 - Present:** Pennsylvania State University <br />
 Research Assistant at [PIKE Lab](http://pike.psu.edu/)
 
+**May 2022 - August 2022:** Pacific Northwest National Lab (PNNL)<br />
+National Security Ph.D. intern at Secure Architectures team
+
 **May 2021 - August 2021:** IBM Research <br />
 Ph.D. Research intern at IBM Almaden, California (Virtual)
 
