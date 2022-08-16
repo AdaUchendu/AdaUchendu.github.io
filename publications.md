@@ -8,7 +8,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 * [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
 **Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
-The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**)
+The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**) [[Video](https://vimeo.com/731722827)]
 
 * [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
 **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt <br>
