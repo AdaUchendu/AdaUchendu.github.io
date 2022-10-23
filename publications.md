@@ -8,7 +8,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 * [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://arxiv.org/pdf/2210.10488.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-ArXiV. October 2022
+ArXiV. October 2022 (**Under Review**)
 
 * [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
 **Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
