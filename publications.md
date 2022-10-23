@@ -21,7 +21,7 @@ IEEE Fourth International Conference on Artificial Intelligence and Knowledge En
  -->
 * [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
 **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee <br>
-In Findings of the Association for Computational Linguistics: EMNLP 2021 (pp. 2001-2016). <em>(Acceptance Rate: 11.6% (419/3,600))</em>
+In Findings of the Association for Computational Linguistics: EMNLP 2021. <em>(Acceptance Rate: 11.6% (419/3,600))</em>
 
 * [Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) <br>
 **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. <br>
