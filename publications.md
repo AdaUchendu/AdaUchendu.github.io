@@ -40,6 +40,8 @@ In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 ---
 # Invited Talks #
 
+*  Detection and Obfuscation of Deepfake Texts, at MIT Lincoln Laboratory’s fourth Recent Advances in Artificial Intelligence for National Security (RAAINS) workshop, Student Lightning talk, Boston, MA, November 16, 2022.
+
 *  Attribution and Obfuscation of Neural Text Authorship, at Dublin City University, Ireland, NLP Seminar, Virtual, October 10, 2022
 
 * Reverse Turing Test in the Age of Neural Text Generation, at National Institute of Standards and Technology (NIST), Information Technology Laboratory, Software and Systems Division, Virtual, February 10, 2022.
