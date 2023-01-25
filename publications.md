@@ -10,7 +10,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 SIGKDD Explorations, Vol. 25, June 2023
 
-* [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts]() <br>
+* [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial)
 
