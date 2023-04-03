@@ -1,6 +1,6 @@
 
-# Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts #
 
+# Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts #
 ---
 
 ### Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023 in Austin, TX, USA. ### 
