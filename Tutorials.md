@@ -1,17 +1,12 @@
-<!-- ---
----
-layout: page
-title: Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts 
- -->
 
 ---
-
 
 ### Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023 in Austin, TX, USA. <br> ### 
   ### Check out our [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng) <br> ###
   ### See similar Tutorial at INLG 2022 Conference, [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/)
+  
+---
 
-  <br>
   <br>
 
 # Overview #  
@@ -40,15 +35,15 @@ In recent years, Natural Language Generation (NLG) techniques have greatly advan
   
 # Organizers #
 
-![image](img/adaku.jpeg "Adaku Uchendu") <br>
+![image](img/adaku.jpeg) <br>
 Adaku Uchendu, <br>
 Pennsylvania State University
 
-![image](img/ThaiLe.png "Thai Le") <br>
+![image](img/ThaiLe.png) <br>
 Thai Le, <br>
 University of Mississippi <br>
 
-![image](img/dongwon.png "Dongwon Lee") <br>
+![image](img/dongwon.png) <br>
 Dongwon Lee, <br>
 Pennsylvania State Uniiversity <br>
 
