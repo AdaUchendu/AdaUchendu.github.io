@@ -1,6 +1,8 @@
+<!-- ---
 ---
 layout: page
 title: Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts 
+ -->
 
 ---
 <div align="center">
