@@ -5,7 +5,7 @@ title: Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake T
  -->
 
 ---
-<div align="center">
+
 
 ### Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023 in Austin, TX, USA. <br> ### 
   ### Check out our [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng) <br> ###
@@ -58,5 +58,4 @@ Pennsylvania State Uniiversity <br>
 <img src="img/dongwon.png" alt= “” width="170" height="230" title="Dongwon Lee">
  -->
  
-</div>
 
