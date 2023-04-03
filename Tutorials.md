@@ -30,8 +30,7 @@ In recent years, Natural Language Generation (NLG) techniques have greatly advan
   <br>
   
 # Materials #
-  Tutorial Overview <br>
-  Tutorial Slides <br>
+  [Tutorial Slides]() <br>
   
   <br>
   <br>
