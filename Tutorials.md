@@ -7,6 +7,7 @@ title: Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake T
 
 ### Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023 in Austin, TX, USA. <br> ### 
   ### Check out our [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng) <br> ###
+  ### See similar Tutorial at INLG 2022 Conference, [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/)
 
   <br>
   <br>
