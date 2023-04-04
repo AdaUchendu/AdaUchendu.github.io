@@ -5,37 +5,42 @@ title: Publications
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
 # Conference Proceedings  #
+*means equal contribution
 
-1. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://arxiv.org/pdf/2210.10488.pdf) <br>
+1. [Understanding Individual and Team-based Human Factors in Detecting Deepfake Texts](https://arxiv.org/abs/2304.01002#) <br>
+**Adaku Uchendu***, Jooyoung Lee*, Hua Shen, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
+arXiv, April 2023
+
+2. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://arxiv.org/pdf/2210.10488.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 SIGKDD Explorations, Vol. 25, June 2023
 
-2. [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
+3. [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial)
 
-3. [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
+4. [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
 **Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
 The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**) [[Video](https://vimeo.com/731722827)]
 
-4. [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
+5. [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
 **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt <br>
 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021. 
 <!-- * <em>(Full paper Acceptance Rate: 30.95% (13/42))</em>
  -->
-5. [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
+6. [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
 **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee <br>
 In Findings of the Association for Computational Linguistics: EMNLP 2021. <em>(Acceptance Rate: 11.6% (419/3,600))</em>
 
-6. [Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) <br>
+7. [Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) <br>
 **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. <br>
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
 
-7. [Characterizing Man-made vs. Machine-made Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf) <br>
+8. [Characterizing Man-made vs. Machine-made Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf) <br>
 **Adaku Uchendu**, Jeffrey Cao, Qiaozhi Wang, Bo Luo, Dongwon Lee. <br> 
 In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
 
-8. [A Reverse Turing Test for Detecting Machine-Made Texts](http://pike.psu.edu/publications/websci19-rtt.pdf) <br> 
+9. [A Reverse Turing Test for Detecting Machine-Made Texts](http://pike.psu.edu/publications/websci19-rtt.pdf) <br> 
 Jialin Shao, **Adaku Uchendu**, Dongwon Lee. (2019). <br> 
 In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
