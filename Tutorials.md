@@ -48,7 +48,7 @@ University of Mississippi <br>
 
 ![image](img/dongwon.png) <br>
 Dongwon Lee, <br>
-Pennsylvania State Uniiversity <br>
+Pennsylvania State University <br>
 
 <!-- ---
 <img src="img/adaku.jpeg" alt= “” width="300" height="230" title="Adaku Uchendu"> 
