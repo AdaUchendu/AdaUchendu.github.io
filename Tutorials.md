@@ -30,7 +30,7 @@ In recent years, Natural Language Generation (NLG) techniques have greatly advan
   <br>
   
 # Materials #
-  [Tutorial Slides]() <br>
+  [Tutorial Slides](Deepfake_Text_Tutorial.pdf) <br>
   
   <br>
   <br>
