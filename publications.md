@@ -63,11 +63,11 @@ Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
 # Theses #
 
 * [Reverse Turing Test in the Age of Deepfake Texts]() <br>
-  **Adaku Uchendu** (2023) <br>
+  **Adaku Uchendu**. Ph.D. Dissertation (2023) <br>
   College of Information Sciences and Technology, Pennsylvania State University, PA, USA. 
 
 * [Numerical Simulation of Vibrations of Mechanical Structures](uchendu_thesis.pdf)  <br>
-**Adaku Uchendu** (2018)  <br>
+**Adaku Uchendu**. Senior Thesis (2018)  <br>
 Department of Mathematics and Statistics, University of Maryland Baltimore County, MD, USA.
 
 
