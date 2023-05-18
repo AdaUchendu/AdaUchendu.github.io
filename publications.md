@@ -59,6 +59,11 @@ In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
 
 
+# Theses #
+
+* [Numerical Simulation of Vibrations of Mechanical Structures](uchendu_thesis.pdf)
+
+
 
 
 <!-- ---
