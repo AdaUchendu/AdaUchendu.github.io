@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**August 2018 - Present:** Pennsylvania State University <br />
+**August 2018 - August 2023:** Pennsylvania State University <br />
 Research Assistant at [PIKE Lab](http://pike.psu.edu/)
 
 **May 2022 - August 2022:** Pacific Northwest National Lab (PNNL)<br />
