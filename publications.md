@@ -4,12 +4,12 @@ title: Publications
 ---
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
-# Conference Proceedings  #
+# Proceedings  #
 *means equal contribution
 
 1. [Understanding Individual and Team-based Human Factors in Detecting Deepfake Texts](https://arxiv.org/abs/2304.01002#) <br>
 **Adaku Uchendu** *, Jooyoung Lee *, Hua Shen, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
-arXiv, April 2023
+arXiv preprint arXiv:2304.01002, April 2023
 
 2. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://arxiv.org/pdf/2210.10488.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
