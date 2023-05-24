@@ -62,7 +62,7 @@ Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
 ---
 # Theses #
 
-* [Reverse Turing Test in the Age of Deepfake Texts]() <br>
+* [Reverse Turing Test in the Age of Deepfake Texts](https://pike.psu.edu/publications/thesis-adaku.pdf) <br>
   **Adaku Uchendu**. Ph.D. Dissertation (2023) <br>
   College of Information Sciences and Technology, Pennsylvania State University, PA, USA. 
 
