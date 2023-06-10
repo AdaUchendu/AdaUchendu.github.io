@@ -67,7 +67,7 @@ Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
   College of Information Sciences and Technology, Pennsylvania State University, PA, USA. 
 
 * [Numerical Simulation of Vibrations of Mechanical Structures](uchendu_thesis.pdf)  <br>
-**Adaku Uchendu**. Senior Thesis (2018)  <br>
+**Adaku Uchendu**. Senior Thesis (2017)  <br>
 Department of Mathematics and Statistics, University of Maryland Baltimore County, MD, USA.
 
 
