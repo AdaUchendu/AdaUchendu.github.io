@@ -3,13 +3,11 @@ layout: page
 title: Adaku Uchendu 
 
 ---
-I am a 5th-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at The
-Pennsylvania State University under the guidance of [Dr. Dongwon Lee](http://pike.psu.edu/dongwon/) at the [PIKE Lab](http://pike.psu.edu/).  I am currently an NSF SFS (Scholarship for Service) Scholar and Alfred P. Sloan Scholar. I graduated from the [University of Maryland Baltimore County](https://umbc.edu/) with a B.S in Mathematics and a minor 
-in Statistics in May 2018. My research interests are: Artificial Intelligence, Machine Learning, and Data mining in the application domain of Cybersecurity. 
+I am an incoming AI Researcher at MIT Lincoln Lab. I will earn my Ph.D. in [Information Sciences and Technology](https://ist.psu.edu/) at The Pennsylvania State University under the guidance of [Dr. Dongwon Lee](http://pike.psu.edu/dongwon/) at the [PIKE Lab](http://pike.psu.edu/) in August 2023.  I am a Button-Waller Fellow, an NSF Scholarship for Service Scholar, and an Alfred P. Sloan Scholar. I earned a B.S. in Mathematics, with a minor in Statistics at [University of Maryland Baltimore County](https://umbc.edu/) in May 2018. My research interests are: Artificial Intelligence, Machine Learning, and Data mining in the application domain of Cybersecurity. 
 Specifically, I am interested in:
 * NLP (Natural Language Processing)
 * NLG (Natural Language Generation) 
-* Adversarial Robustness (both in Computer Vision and NLP)
+* Adversarial Robustness 
 * TDA (Topological Data Analysis)
 
 
