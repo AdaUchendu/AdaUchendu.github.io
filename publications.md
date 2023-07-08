@@ -11,9 +11,9 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 **Adaku Uchendu** *, Jooyoung Lee *, Hua Shen, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
 arXiv preprint arXiv:2304.01002, April 2023
 
-2. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://arxiv.org/pdf/2210.10488.pdf) <br>
+2. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://dl.acm.org/doi/pdf/10.1145/3606274.3606276?casa_token=mH78K7icCqgAAAAA:HQcHMZcQn11pVU9XTKK0O5RcArqpuRTMXdK_89oTUSPrr5irabhnDeUFoOVZAJabVBh4bjC7nYPF9g) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-SIGKDD Explorations, Vol. 25, June 2023
+SIGKDD Explorations, Vol. 25(1), July 2023 [[arXiv version](https://arxiv.org/pdf/2210.10488.pdf)]
 
 3. [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
