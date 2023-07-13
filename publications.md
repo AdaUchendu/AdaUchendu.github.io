@@ -13,7 +13,7 @@ arXiv preprint arXiv:2304.01002, April 2023
 
 2. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://dl.acm.org/doi/pdf/10.1145/3606274.3606276?casa_token=mH78K7icCqgAAAAA:HQcHMZcQn11pVU9XTKK0O5RcArqpuRTMXdK_89oTUSPrr5irabhnDeUFoOVZAJabVBh4bjC7nYPF9g) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-SIGKDD Explorations, Vol. 25(1), July 2023 [[arXiv version](https://arxiv.org/pdf/2210.10488.pdf)]
+SIGKDD Explorations, Vol. 25(1), June 2023 [[arXiv version](https://arxiv.org/pdf/2210.10488.pdf)]
 
 3. [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
@@ -26,7 +26,7 @@ The 15th International Conference on Natural Language Generation (INLG). Maine, 
 5. [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
 **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt <br>
 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, 2021. 
-<!-- * <em>(Full paper Acceptance Rate: 30.95% (13/42))</em>
+<!-- * <em>(Full Paper Acceptance Rate: 30.95% (13/42))</em>
  -->
 6. [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
 **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee <br>
