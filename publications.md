@@ -7,7 +7,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 # Proceedings  #
 *means equal contribution
 
-1. [Does Human Collaboration Enhance the Accuracy of Identifying Deepfake Texts?](https://arxiv.org/abs/2304.01002#) <br>
+1. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002#) <br>
 **Adaku Uchendu** *, Jooyoung Lee *, Hua Shen *, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
 11th AAAI Conf. on Human Computation and Crowdsourcing (HCOMP), Delft, Netherlands, November 2023
 
