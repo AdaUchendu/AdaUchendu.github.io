@@ -1,56 +1,60 @@
 
 ---
-# Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts #
+
+# Catch Me If You GPT: Tutorial on Deepfake Texts 
 
 ---
 
-### Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023 in Austin, TX, USA. ### 
-###   [Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial.pdf) 
-### Check out our [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng)  ### 
-  
+
+Tutorial at [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Berkley, CA <br>
+[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial.pdf)
+
 ---
 
-  <br>
+<br>
 
-# Overview #  
-In recent years, Natural Language Generation (NLG) techniques have greatly advanced, especially in the realm of open-ended text generation using deep learning methods. With respect to the quality of generated texts , therefore, it has become no longer trivial to tell the difference between human-written and NLG-generated texts (so-called deepfake texts). While this is a celebratory feat for NLG, however, it poses new security risks (e.g., generation of misinformation or phishing message at scale). To combat this novel challenge, researchers have developed diverse techniques to automatically detect NLG-generated texts. While this niche field of deepfake text detection is growing, the field of NLG is growing at a much faster rate, thus making it difficult to understand the complex interplay between state-of-the-art NLG methods and the detectability of their deepfake texts. Scaling up the problem further to the case of k NLG methods (k > 1), each generating uniquely-different yet human-quality texts, two new computational problems emerge: “Neural” Authorship Attribution (AA) and “Neural” Authorship Obfuscation (AO) problems, where the AA problem is concerned with attributing the authorship of a given deepfake text to one of k NLG methods, while the AO problem is to evade the authorship of a given text by modifying parts of the text. Both problems lie in the intersection between Machine Learning and Security/Privacy, and its importance and implications are growing rapidly on the domain of World-Wide Web, where the bulk of “information” is text-based (e.g., NLG-made Wikipedia articles with factual errors on obscure subjects may evade human curation and jeopardize the Web eco-system). In this tutorial, therefore, we call-attention to the serious security risks both emerging problems pose and give a comprehensive review of recent literature on the: (1) generation, (2) detection (3) obfuscation of deepfake text authorship, (4) their utility in the Web applications and (5) critical implications in the society. Our tutorial will be mainly of lecture-style, together with hands-on examples of the generation and detection of deepfake texts for interactive participation from audience. We selectively select the word “GAN", which stands for Generative Adversarial Network, as part of the title to emphasize its symbolic pioneer of modern AI generative models.
+## Description 
 
-  <br>
+In recent years, Neural Language Generation (NLG) techniques including large language models (LLMs) have greatly advanced, especially in the realm of open-ended text generation. With respect to the quality of generated texts, therefore, it is no longer trivial to tell the difference between human-written and NLG-generated texts (so-called “deepfake texts”). While this is a celebratory feat for NLG, however, it poses new security risks (e.g., generation of misinformation or phishing messages at scale). To combat this novel challenge, researchers have developed diverse techniques to automatically detect NLG-generated texts. While this niche field of deepfake text detection is growing, the field of NLG is growing at a much faster rate, thus making it difficult to understand the complex interplay between state-of-the-art NLG methods and the detectability of their deepfake texts. Scaling up the problem further to the case of 𝑘 NLG methods (𝑘 ≥ 2), each generating uniquely-different yet human-quality texts, two new computational problems emerge: (1) “Neural" Authorship Attribution (AA) and (2) “Neural" Authorship Obfuscation (AO) problems, where the AA problem is concerned with attributing the authorship of a given text to one of 𝑘 NLG methods, while the AO problem is to evade the authorship of a given text by modifying parts of the text. Both problems lie in the security field, and their importance and implications are growing rapidly. In this training, therefore, we call-attention to the serious security risks both emerging problems pose and give a comprehensive tutorial of recent literature on the detection and obfuscation of deepfake text authorships.  Hands-on examples/quizzes of the generation, detection, and obfuscation of deepfake texts for engaging with participation interactively. We invite an audience from all sub-fields of cybersecurity to attend this very timely workshop.  
+
+
+<br>
   
-### See similar Tutorial at INLG 2022 Conference, [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) ### 
-
-   <br>
-
-  
-# Tutorial Parts #
+## Tutorial Parts #
   1. Introduction
-  2. Authorship Attribution
-  3. Authorship Obfuscation
+  2. Deepfake Text Detection
+  3. Deepfake Text Obfuscation
   4. Conclusion & Future Work
   
-  <br>
+<br>
+
+## See Similar Tutorials: #
+
+1. Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023,
+   - [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](Deepfake_Text_Tutorial.pdf)
+   - Check out the [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng)  
+  
+3. Tutorial at [15th International Natural Language Generation Conference](https://inlgmeeting.github.io/) 2022 Conference,
+   - [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/)  
+
+ 
   <br>
   
-# Materials #
-  [Tutorial Slides](Deepfake_Text_Tutorial.pdf) <br>
   
-  <br>
-  <br>
-  
-  
-# Organizers #
+## Presenters #
 
 ![image](img/adaku.jpeg) <br>
-Adaku Uchendu, <br>
-Pennsylvania State University
+**Adaku Uchendu** recently earned her Ph.D. in Information Sciences and Technology from The Pennsylvania State University and is to join MIT Lincoln Lab. She was a Sloan scholarship fellow, an NSF CyberCorps SFS scholar, and a Button-Waller fellow. Her dissertation is titled “Reverse Turing Test in the Age of Deepfake Texts.” She has authored several papers in deepfake text detection at top-tier conferences & journals - EMNLP, KDD Exploration, Web of Science, Web Conference, etc. In addition, she led two similar Tutorials titled, Tutorial on Artificial Text Detection at the INLG conference, in July 2022 and Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts at the Web conference in April 2023. She is interested in building robust and explainable deepfake text detectors to assist in both automatic and human detection of deepfake texts. More details of her research can be found at: https://adauchendu.github.io/. E-mail: azu5030@psu.edu 
 
 ![image](img/ThaiLe.png) <br>
-Thai Le, <br>
-University of Mississippi <br>
+**Thai Le** is an Assistant Professor at The University of Mississippi since 2022. Before starting at the University of Mississippi, he worked at Amazon Alexa and obtained his doctorate degree from The Pennsylvania State University. He has published several relevant works at top-tier conferences such as KDD, ICDM, ACL, EMNLP, and Web Conference. He is also one of the Instructors in the Tutorial, Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts at the Web Conference. In general, he researches the trustworthiness of machine learning and AI, with a focus on explainability and adversarial robustness of machine learning models. He also contributed to the adversarial NLP open-source repository TextAttack1, which will be used to demonstrate the authorship obfuscation section of the tutorial. More details of his research can be found at: https://lethaiq.github.io/tql3. E-mail: thaile@olemiss.edu  
+<br>
 
 ![image](img/dongwon.png) <br>
-Dongwon Lee, <br>
-Pennsylvania State University <br>
+**Dongwon Lee** is a Professor in the College of Information Sciences and Technology (a.k.a. iSchool) at Penn State University, USA and also an ACM Distinguished Scientist and Fulbright Cyber Security Scholar. Before starting at Penn State, he worked at AT&T Bell Labs and obtained his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he also served as a Program Director at National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, he researches problems in the areas of data science, machine learning, and cybersecurity. Since 2017, in particular, he has led the SysFake project at Penn State, investigating computational and socio-technical solutions to better combat fake news. More details of his research can be found at: http://pike.psu.edu. Previously, he has given numerous tutorials at various venues, including WWW, AAAI, CIKM, SDM, ICDE, and WebSci. E-mail: dongwon@psu.edu 
+<br>
+
+
 
 <!-- ---
 <img src="img/adaku.jpeg" alt= “” width="300" height="230" title="Adaku Uchendu"> 
