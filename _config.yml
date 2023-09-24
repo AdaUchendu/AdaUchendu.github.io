@@ -44,11 +44,11 @@ avatar: "/img/ver2.jpg"
 
 navbar-col: "#AE796F"    
 navbar-text-col: "#000000"
-navbar-children-col: "#9B6B62"
+navbar-children-col: "#AE796F"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#9B6B62"
+footer-col: "#AE796F"
 footer-text-col: "#000000"
 footer-link-col: "#403e3e"
 
