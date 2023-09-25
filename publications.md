@@ -51,11 +51,11 @@ In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
 * [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Deepfake_Text_Tutorial.pdf) <br>
   **Adaku Uchendu**, Thai Le, Dongwon Lee, <br>
-  [2023 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure](https://www.trustedci.org/2023-cybersecurity-summit) at Lawrence Berkeley National Laboratory, Berkley, California, October 2023 (Training/Workshop)
+  [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Lawrence Berkeley National Laboratory, Berkley, California, October 2023 (Training/Workshop)
 
-* [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
+* [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://adauchendu.github.io/Deepfake_Text_Tutorial.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial)
+The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial) [[Teaser Video](https://tinyurl.com/DeepfakeTeaser)]
 
 * [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
 **Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
