@@ -7,21 +7,21 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 # Proceedings  #
 *means equal contribution
 
-1. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002#) <br>
+1. [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://arxiv.org/pdf/2309.12934.pdf) <br>
+**Adaku Uchendu**, Thai Le, Dongwon Lee <br>
+ArXiv Preprint, September 2023 
+
+2. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002#) <br>
 **Adaku Uchendu** *, Jooyoung Lee *, Hua Shen *, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
 11th AAAI Conf. on Human Computation and Crowdsourcing (HCOMP), Delft, Netherlands, November 2023
 
-2. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://dl.acm.org/doi/pdf/10.1145/3606274.3606276?casa_token=mH78K7icCqgAAAAA:HQcHMZcQn11pVU9XTKK0O5RcArqpuRTMXdK_89oTUSPrr5irabhnDeUFoOVZAJabVBh4bjC7nYPF9g) <br>
+3. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://dl.acm.org/doi/pdf/10.1145/3606274.3606276?casa_token=mH78K7icCqgAAAAA:HQcHMZcQn11pVU9XTKK0O5RcArqpuRTMXdK_89oTUSPrr5irabhnDeUFoOVZAJabVBh4bjC7nYPF9g) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 SIGKDD Explorations, Vol. 25(1), June 2023 [[arXiv version](https://arxiv.org/pdf/2210.10488.pdf)]
 
-3. [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
-**Adaku Uchendu**, Thai Le, Dongwon Lee <br>
+4. [Tutorials at The Web Conference 2023](https://dl.acm.org/doi/abs/10.1145/3543873.3587713) <br>
+Fionda, V., et al., **Adaku Uchendu**, Thai Le, Dongwon Lee, et al. <br>
 The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial)
-
-4. [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
-**Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
-The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**) [[Video](https://vimeo.com/731722827)]
 
 5. [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
 **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt <br>
@@ -47,9 +47,24 @@ In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
 
 ---
-# Invited Talks & Talks #
+# Tutorials #
 
-* **Adaku Uchendu**, Thai Le, Dongwon Lee, “**Catch Me If You GPT: Tutorial on Deepfake Texts**,” 2023 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure at Lawrence Berkeley National Laboratory, Berkley, California, October 2023 (Training/Workshop)
+* [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Deepfake_Text_Tutorial.pdf) <br>
+  **Adaku Uchendu**, Thai Le, Dongwon Lee, <br>
+  [2023 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure](https://www.trustedci.org/2023-cybersecurity-summit) at Lawrence Berkeley National Laboratory, Berkley, California, October 2023 (Training/Workshop)
+
+* [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](https://tinyurl.com/DeepfakeTeaser) <br>
+**Adaku Uchendu**, Thai Le, Dongwon Lee <br>
+The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial)
+
+* [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/) <br>
+**Adaku Uchendu**, Vladislav Mikhailov, Jooyoung Lee, Saranya Venkatraman, Tatiana Shavrina, Ekaterina Artemova <br>
+The 15th International Conference on Natural Language Generation (INLG). Maine, July 2022 (**Tutorial**) [[Video](https://vimeo.com/731722827)]
+
+
+
+---
+# Invited Talks & Presentations #
   
 *  [Detection and Obfuscation of Deepfake Texts](https://docs.google.com/presentation/d/1PxyxpOmEuucXb7V5_8FmR5AkQNOuE83U/edit?usp=sharing&ouid=102754510984142247028&rtpof=true&sd=true), at MIT Lincoln Laboratory’s fourth Recent Advances in Artificial Intelligence for National Security (RAAINS) workshop, Student Lightning talk, Boston, MA, November 16, 2022.
 
@@ -59,6 +74,8 @@ In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
 * [Reverse Turing Tests for Distinguishing AI-generated texts from Human-written texts](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
 Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
+
+
 
 
 ---
