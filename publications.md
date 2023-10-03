@@ -50,6 +50,10 @@ In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 # Tutorials #
 
 * [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Deepfake_Text_Tutorial.pdf) <br>
+  **Adaku Uchendu**, Saranya Venkatraman, Thai Le, Dongwon Lee, <br>
+  [2024 Annual Conference of the NAACL](https://2024.naacl.org/), Berkley, Mexico City, Mexico, June 2024
+  
+* [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Deepfake_Text_Tutorial.pdf) <br>
   **Adaku Uchendu**, Thai Le, Dongwon Lee, <br>
   [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Lawrence Berkeley National Laboratory, Berkley, California, October 2023 (Training/Workshop)
 
