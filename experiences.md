@@ -2,6 +2,9 @@
 layout: page
 ---
 
+**October 2023 - Present:** MIT Lincoln Lab <br /> 
+Technical Staff (AI Researcher)
+
 **August 2018 - August 2023:** Pennsylvania State University <br />
 Research Assistant at [PIKE Lab](http://pike.psu.edu/)
 
