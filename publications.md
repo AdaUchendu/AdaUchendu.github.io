@@ -19,11 +19,11 @@ EMNLP-Findings 2023, Singapore, December 2023
 Jason Lucas, **Adaku Uchendu**, Michiharu Yamashita,Jooyoung Lee, Shaurya Rohatgi, Dongwon Lee <br>
 EMNLP 2023, Singapore, December 2023
 
-4. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002#) <br>
+4. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002) <br>
 **Adaku Uchendu** *, Jooyoung Lee *, Hua Shen *, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
 11th AAAI Conf. on Human Computation and Crowdsourcing (HCOMP), Delft, Netherlands, November 2023
 
-5. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2304.01002.pdf) <br>
+5. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2310.06202.pdf) <br>
  Saranya Venkatraman, **Adaku Uchendu**, Dongwon Lee <br>
  ArXiv Preprint, October 2023
   
