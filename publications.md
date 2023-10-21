@@ -7,15 +7,15 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 # Proceedings  #
 *means equal contribution
 
-1. [MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark]() <br>
+1. [MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark](https://pike.psu.edu/publications/emnlp23-multitude.pdf) <br>
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Jason Lucas, Michiharu Yamashita, Matúš Pikuliak, Ivan Srba, Thai Le, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
 EMNLP 2023, Singapore, December 2023
 
-2. [HANSEN: Human and AI Spoken Text Benchmark for Authorship Analysis]() <br>
+2. [HANSEN: Human and AI Spoken Text Benchmark for Authorship Analysis](https://pike.psu.edu/publications/emnlp23-hansen.pdf) <br>
 Nafis Irtiza Tripto, **Adaku Uchendu**, Thai Le, Mattia Setzu, Fosca Giannotti, Dongwon Lee <br>
 EMNLP-Findings 2023, Singapore, December 2023
 
-3. [Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation]() <br>
+3. [Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation](https://pike.psu.edu/publications/emnlp23-f3.pdf) <br>
 Jason Lucas, **Adaku Uchendu**, Michiharu Yamashita,Jooyoung Lee, Shaurya Rohatgi, Dongwon Lee <br>
 EMNLP 2023, Singapore, December 2023
 
