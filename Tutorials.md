@@ -7,7 +7,7 @@
 
 
 Tutorial at [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Berkley, CA <br>
-[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial.pdf) (*draft, will be updated soon !!!*)
+[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial_NSF.pdf) 
 
 ---
 
