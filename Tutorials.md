@@ -52,7 +52,7 @@ In recent years, Neural Language Generation (NLG) techniques including large lan
 
 
 ![image](img/Venkatraman_Saranya.jpg) <br>
-**Saranya Venkatraman** is a Ph.D. student at The Pennsylvania State University, working under the guidance of Dr. Dongwon Lee in the College of Information Sciences and Technology. Her research focuses on using psycholinguistics theories and theories of human cognition to inform natural language processing techniques, with a focus on deepfake text detection and deepfake text obfuscation. She also contributed to and presented a Tutorial on Artificial Text Detection at the INLG conference, in July 2022 and has published in top-tier conferences like EACL and EMNLP. More details of her research can be found at: [][https://saranya-ven.github.io/](https://saranya-ven.github.io/). E-mail: saranyav@psu.edu
+**Saranya Venkatraman** is a Ph.D. student at The Pennsylvania State University, working under the guidance of Dr. Dongwon Lee in the College of Information Sciences and Technology. Her research focuses on using psycholinguistics theories and theories of human cognition to inform natural language processing techniques, with a focus on deepfake text detection and deepfake text obfuscation. She also contributed to and presented a Tutorial on Artificial Text Detection at the INLG conference, in July 2022 and has published in top-tier conferences like EACL and EMNLP. More details of her research can be found at: [https://saranya-ven.github.io/](https://saranya-ven.github.io/). E-mail: saranyav@psu.edu
 
 
 
