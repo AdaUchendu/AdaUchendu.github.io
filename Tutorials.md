@@ -6,8 +6,9 @@
 ---
 
 
-Tutorial at [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Berkley, CA <br>
-[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial_NSF.pdf) 
+Tutorial at [2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+](https://2024.naacl.org/) at Mexico City, Mexico <br>
+[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial_NSF.pdf) (*draft will update later!*)
 
 ---
 
@@ -30,11 +31,14 @@ In recent years, Neural Language Generation (NLG) techniques including large lan
 
 ## See Similar Tutorials: #
 
-1. Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023,
+1. Tutorial at [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Berkley, CA,
+   - [Catch Me If You GPT: Tutorial on Deepfake Texts](Deepfake_Text_Tutorial_NSF.pdf)
+     
+3. Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023,
    - [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](Deepfake_Text_Tutorial.pdf)
    - Check out the [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng)  
   
-3. Tutorial at [15th International Natural Language Generation Conference](https://inlgmeeting.github.io/) 2022 Conference,
+4. Tutorial at [15th International Natural Language Generation Conference](https://inlgmeeting.github.io/) 2022 Conference,
    - [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/)  
 
  
