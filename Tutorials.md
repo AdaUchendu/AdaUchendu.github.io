@@ -34,13 +34,15 @@ this is a celebratory feat for NLG, it poses new security risks (e.g., the gener
 
 1. Tutorial at [2023 NSF Cybersecurity Summit](https://www.trustedci.org/2023-cybersecurity-summit) at Berkley, CA,
    - [Catch Me If You GPT: Tutorial on Deepfake Texts](Deepfake_Text_Tutorial_NSF.pdf)
+   <!--- [Tutorial video](https://www.youtube.com/watch?v=VCo99OJZhpQ&ab_channel=TrustedCI) -->
      
 3. Tutorial at [The Web Conference](https://www2023.thewebconf.org/) 2023,
    - [Catch Me If You GAN: Generation, Detection, and Obfuscation of Deepfake Texts](Deepfake_Text_Tutorial.pdf)
    - Check out the [Video teaser](https://www.youtube.com/watch?v=oS0KR7IdLe0&ab_channel=JilieZeng)  
   
 4. Tutorial at [15th International Natural Language Generation Conference](https://inlgmeeting.github.io/) 2022 Conference,
-   - [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/)  
+   - [Tutorial on Artificial Text Detection](https://artificial-text-detection.github.io/)
+   <!--- [Tutorial video](https://vimeo.com/731722827) -->
 
  
   <br>
