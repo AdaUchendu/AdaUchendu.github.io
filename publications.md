@@ -6,7 +6,7 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # PrePrints #
 1. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
-Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee
+Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 ArXiv Preprint, November 2023
 
 2. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2310.06202.pdf) <br>
