@@ -5,15 +5,20 @@ title: Publications
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
 # PrePrints #
-1. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
+1. [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/pdf/2401.07867.pdf) <br>
+Dominik Macko, Robert Moro, **Adaku Uchendu**, Ivan Srba, Jason Lucas, Michiharu Yamashita, Nafis Irtiza Tripto, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
+ArXiv Preprint, January 2024
+
+  
+2. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
 Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 ArXiv Preprint, November 2023
 
-2. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2310.06202.pdf) <br>
+3. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2310.06202.pdf) <br>
  Saranya Venkatraman, **Adaku Uchendu**, Dongwon Lee <br>
  ArXiv Preprint, October 2023
   
-3. [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://arxiv.org/pdf/2309.12934.pdf) <br>
+4. [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://arxiv.org/pdf/2309.12934.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 ArXiv Preprint, September 2023 (*under review*)
 
