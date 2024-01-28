@@ -12,8 +12,9 @@ Specifically, I am interested in:
 
 
 <br>
-<br>
-
+<!-- <br>
+ -->
+ 
 **News**
 
 * [**January 2024**]: Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
@@ -23,8 +24,8 @@ Specifically, I am interested in:
 
 
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 
 **Press Mentions:**
