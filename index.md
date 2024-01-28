@@ -11,21 +11,15 @@ Specifically, I am interested in:
 * TDA (Topological Data Analysis)
 
 
-<br>
-<!-- <br>
- -->
  
 **News**
 
 * [**January 2024**]: Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
 * [**January 2024**]: A new preprint, titled [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
-* [**December 2023**]: Attended EMNLP 2023 in-person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)
+* [**December 2023**]: Attended EMNLP 2023 in person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)
 * [**November 2023**]: A new preprint, titled [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/abs/2311.08374) is available 
 
 
-<br>
-<!-- <br>
-<br> -->
 
 
 **Press Mentions:**
