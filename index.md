@@ -16,9 +16,12 @@ Specifically, I am interested in:
 **News**
 
 * **[January 2024]**: Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
-* **[January 2024]**: A new preprint, titled [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
+* **[January 2024]**: A new preprint titled, [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
 * **[December 2023]**: Attended EMNLP 2023 in person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)
-* **[November 2023]**: A new preprint, titled [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/abs/2311.08374) is available 
+* **[November 2023]**: A new preprint titled, [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/abs/2311.08374) is available
+* **[October 2023]**: Tutorial: [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Tutorials/) accepted at [NAACL 2024](https://2024.naacl.org/program/tutorials/)
+* **[October 2023]**: A new preprint titled, [GPT-who: An Information Density-based Machine-Generated Text Detector](https://browse.arxiv.org/abs/2310.06202) is available
+* **[September 2023]**: A new preprint titled, [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://browse.arxiv.org/abs/2309.12934) is available
 
 
 <br>
