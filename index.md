@@ -12,7 +12,6 @@ Specifically, I am interested in:
 
 
 <br>
-<br>
 
 **News**
 
@@ -22,7 +21,6 @@ Specifically, I am interested in:
 * **[November 2023]**: A new preprint, titled [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/abs/2311.08374) is available 
 
 
-<br>
 <br>
 <br>
 
