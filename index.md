@@ -15,6 +15,7 @@ Specifically, I am interested in:
 
 **News**
 
+* **[March 2024]**: Invited to be PC member at [ECAI 2024](https://www.ecai2024.eu/) conference
 * **[January 2024]**: Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
 * **[January 2024]**: A new preprint titled, [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
 * **[December 2023]**: Attended EMNLP 2023 in person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)
