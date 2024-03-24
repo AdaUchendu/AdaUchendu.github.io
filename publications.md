@@ -7,15 +7,15 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 # PrePrints #
 - [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/pdf/2401.07867.pdf) <br>
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Ivan Srba, Jason Lucas, Michiharu Yamashita, Nafis Irtiza Tripto, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
-ArXiv Preprint, January 2024
+ArXiv Preprint, January 2024 (*under review*)
   
 - [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
 Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-ArXiv Preprint, November 2023
+ArXiv Preprint, November 2023 (*under review*)
   
 - [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://arxiv.org/pdf/2309.12934.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-ArXiv Preprint, September 2023 (*under review*)
+ArXiv Preprint, September 2023 
 
 # Proceedings  #
 *means equal contribution
