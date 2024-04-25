@@ -17,7 +17,7 @@ Specifically, I am interested in:
 
 * **Apr 2024** - Selected to participate in the [11th Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/) 2024
 * **Mar 2024** - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - [GPT-who](https://browse.arxiv.org/abs/2310.06202) accepted to NAACL-Findings'24
-* **Mar 2024** - Invited to be a PC member at [ECAI 2024](https://www.ecai2024.eu/) conference
+* **Mar 2024** - Invited to be a PC member at [ECAI 2024](https://www.ecai2024.eu/committees/pc) conference
 * **Jan 2024** - Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
 * **Jan 2024** - A new preprint titled, [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
 * **Dec 2023** - Attended EMNLP 2023 in person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)
