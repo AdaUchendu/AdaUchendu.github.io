@@ -15,7 +15,7 @@ Specifically, I am interested in:
 
 **News**
 
-* **May 2024** - Invited to give a talk at the [Geo Regional African Group](https://sites.google.com/cohere.com/c4ai-community/community-programs/regional-africa) at [Cohere for AI](https://cohere.com/research)
+* **May 2024** - Invited to give a talk at the [Geo Regional African Group](https://sites.google.com/cohere.com/c4ai-community/community-programs/regional-africa) at [Cohere for AI](https://cohere.com/events/c4ai-Adaku-Uchendu-2024)
 * **Apr 2024** - Selected to participate in the [11th Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/) 2024
 * **Mar 2024** - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - [GPT-who](https://browse.arxiv.org/abs/2310.06202) accepted to NAACL-Findings'24
 * **Mar 2024** - Invited to be a PC member at [ECAI 2024](https://www.ecai2024.eu/committees/pc) conference
