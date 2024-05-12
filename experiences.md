@@ -8,16 +8,16 @@ layout: page
 1. [Attribution and Obfuscation of Deepfake Text Authorship](https://cohere.com/events/c4ai-Adaku-Uchendu-2024), at Cohere for AI (Geo Regional Africa Group),
 Invited Talk, Virtual, May 14, 2024.
   
-1. Attribution and Obfuscation of Deepfake Texts, at St. George’s University, Grenada, Invited Lecture,
+2. Attribution and Obfuscation of Deepfake Texts, at St. George’s University, Grenada, Invited Lecture,
 Virtual, February 15, 2024
 
-2. [Detection and Obfuscation of Deepfake Texts](https://docs.google.com/presentation/d/1PxyxpOmEuucXb7V5_8FmR5AkQNOuE83U/edit?usp=sharing&ouid=102754510984142247028&rtpof=true&sd=true), at MIT Lincoln Laboratory’s fourth Recent Advances in Artificial Intelligence for National Security (RAAINS) workshop, Student Lightning talk, Boston, MA, November 16, 2022.
+3. [Detection and Obfuscation of Deepfake Texts](https://docs.google.com/presentation/d/1PxyxpOmEuucXb7V5_8FmR5AkQNOuE83U/edit?usp=sharing&ouid=102754510984142247028&rtpof=true&sd=true), at MIT Lincoln Laboratory’s fourth Recent Advances in Artificial Intelligence for National Security (RAAINS) workshop, Student Lightning talk, Boston, MA, November 16, 2022.
    
-3. Attribution and Obfuscation of Neural Text Authorship, at Dublin City University, Ireland, NLP Seminar, Virtual, October 10, 2022
+4. Attribution and Obfuscation of Neural Text Authorship, at Dublin City University, Ireland, NLP Seminar, Virtual, October 10, 2022
 
-4. Reverse Turing Test in the Age of Neural Text Generation, at National Institute of Standards and Technology (NIST), Information Technology Laboratory, Software and Systems Division, Virtual, February 10, 2022.
+5. Reverse Turing Test in the Age of Neural Text Generation, at National Institute of Standards and Technology (NIST), Information Technology Laboratory, Software and Systems Division, Virtual, February 10, 2022.
 
-5. [Reverse Turing Tests for Distinguishing AI-generated texts from Human-written texts](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
+6. [Reverse Turing Tests for Distinguishing AI-generated texts from Human-written texts](https://www.nist.gov/itl/math/acmd-seminar-reverse-turing-tests-distinguishing-ai-generated-texts-human-written-texts), at National Institute of Standards and Technology (NIST), Applied and
 Computational Mathematics Division (ACMD) Seminar Series, Virtual, May 25, 2021.
 
 
