@@ -4,6 +4,9 @@ layout: page
 
 ---
 # Invited Talks & Presentations #
+
+1. [Attribution and Obfuscation of Deepfake Text Authorship](https://cohere.com/events/c4ai-Adaku-Uchendu-2024), at Cohere for AI (Geo Regional Africa Group),
+Invited Talk, Virtual, May 14, 2024.
   
 1. Attribution and Obfuscation of Deepfake Texts, at St. George’s University, Grenada, Invited Lecture,
 Virtual, February 15, 2024
