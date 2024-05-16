@@ -15,9 +15,10 @@ Specifically, I am interested in:
 
 **News**
 
+* **May 2024** - 1 paper on the philosophical paradox of authorship before and after authorship masking techniques have been utilized - [A Ship of Theseus](https://arxiv.org/pdf/2311.08374) has been accepted to ACL'24
 * **May 2024** - Invited to give a talk at the [Geo Regional African Group](https://sites.google.com/cohere.com/c4ai-community/community-programs/regional-africa) at [Cohere for AI](https://cohere.com/events/c4ai-Adaku-Uchendu-2024)
 * **Apr 2024** - Selected to participate in the [11th Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/) 2024
-* **Mar 2024** - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - [GPT-who](https://browse.arxiv.org/abs/2310.06202) accepted to NAACL-Findings'24
+* **Mar 2024** - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - [GPT-who](https://browse.arxiv.org/abs/2310.06202) has been accepted to NAACL-Findings'24
 * **Mar 2024** - Invited to be a PC member at [ECAI 2024](https://www.ecai2024.eu/committees/pc) conference
 * **Jan 2024** - Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
 * **Jan 2024** - A new preprint titled, [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
