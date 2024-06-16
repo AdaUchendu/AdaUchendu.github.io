@@ -8,7 +8,7 @@
 
 Tutorial at [2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 ](https://2024.naacl.org/) at Mexico City, Mexico <br>
-[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial_NAACL_compressed.pdf) (*draft will update later!*)
+[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial - NAACL_compressed.pdf) 
 
 ---
 
