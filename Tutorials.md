@@ -8,11 +8,19 @@
 
 Tutorial at [2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 ](https://2024.naacl.org/) at Mexico City, Mexico <br>
-[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial - NAACL_compressed.pdf) 
+[Deepfake Text Tutorial Slides](Deepfake_Text_Tutorial - NAACL_compressed.pdf) <br>
+
+---
+NAACL 2024 Tutorial Publication: [Catch Me If You GPT: Tutorial on Deepfake Texts][https://aclanthology.org/2024.naacl-tutorials.1.pdf] <br>
+Blog post about Tutorial: [Telling AI from Human: DeepFake Texts in the era of Large Language Models. Tutorial Notes @NAACL 2024][https://www.jinghong-chen.net/dealing-with-deepfake-texts/]
 
 ---
 
 <br>
+
+
+
+
 
 ## Description 
 
