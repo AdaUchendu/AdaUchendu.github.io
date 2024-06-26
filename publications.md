@@ -5,9 +5,14 @@ title: Publications
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
 # PrePrints #
+
+- [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) <br>
+Jooyoung Lee, Toshini Agrawal, **Adaku Uchendu**, Thai Le, Jinghui Chen, Dongwon Lee <br>
+ArXiv Preprint, June 2024 (*under review*)
+
 - [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/pdf/2401.07867.pdf) <br>
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Ivan Srba, Jason Lucas, Michiharu Yamashita, Nafis Irtiza Tripto, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
-ArXiv Preprint, January 2024 
+ArXiv Preprint, January 2024 (*under review*)
   
 - [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://arxiv.org/pdf/2309.12934.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
