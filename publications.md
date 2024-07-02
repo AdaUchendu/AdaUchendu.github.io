@@ -6,9 +6,9 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # PrePrints #
 
-- [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) <br>
+<!--  - [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) <br>
 Jooyoung Lee, Toshini Agrawal, **Adaku Uchendu**, Thai Le, Jinghui Chen, Dongwon Lee <br>
-ArXiv Preprint, June 2024 (*under review*)
+ArXiv Preprint, June 2024 (*under review*) --> 
 
 - [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/pdf/2401.07867.pdf) <br>
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Ivan Srba, Jason Lucas, Michiharu Yamashita, Nafis Irtiza Tripto, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
