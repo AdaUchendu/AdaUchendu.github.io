@@ -15,7 +15,8 @@ Specifically, I am interested in:
 
 **News**
 
-<!-- * **Jun 2024** - A new preprint titled, [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1)  -->
+* **Jul 2024** - 1 paper on Deepfake Text Detection with Topological Data Analysis accepted to [ECAI 2024](https://www.ecai2024.eu/), titled [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934)
+* **Jun 2024** - A new preprint titled, [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1)
 * **May 2024** - Invited to be a Reviewer for [Widening Natural Language Processing (WiNLP) 2024](https://www.winlp.org/)
 * **May 2024** - 1 paper on the philosophical paradox of authorship before and after authorship masking - [A Ship of Theseus](https://arxiv.org/pdf/2311.08374) has been accepted to ACL'24
 * **May 2024** - Invited to give a talk at the [Geo Regional African Group](https://sites.google.com/cohere.com/c4ai-community/community-programs/regional-africa) at [Cohere for AI](https://cohere.com/events/c4ai-Adaku-Uchendu-2024)
