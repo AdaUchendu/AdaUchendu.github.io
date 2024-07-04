@@ -14,12 +14,14 @@ ArXiv Preprint, June 2024 (*under review*) -->
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Ivan Srba, Jason Lucas, Michiharu Yamashita, Nafis Irtiza Tripto, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
 ArXiv Preprint, January 2024 (*under review*)
   
-- [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://arxiv.org/pdf/2309.12934.pdf) <br>
-**Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-ArXiv Preprint, September 2023 (*under review*)
+
 
 # Proceedings  #
 *means equal contribution
+
+1. [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934.pdf) <br>
+**Adaku Uchendu**, Thai Le, Dongwon Lee <br>
+ECAI (EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE) 2024, October 2024
 
 1. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
 Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
