@@ -21,7 +21,7 @@ ArXiv Preprint, January 2024 (*under review*)
 
 1. [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
-ECAI (EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE) 2024, Santiago de Compostela, Spain, October 2024
+ECAI (European Conference on Artificial Intelligence) 2024, Santiago de Compostela, Spain, October 2024
 
 2. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
 Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
