@@ -15,6 +15,7 @@ Specifically, I am interested in:
 
 **News**
 
+* **Jul 2024** - Invited to serve as a PC member at [Workshop on Detecting AI Generated Content (DAIGenC)](https://genai-content-detection.gitlab.io/) @ [COLING 2025](https://coling2025.org/) conference
 * **Jul 2024** - Invited to serve on a virtual panel of professionals to speak to [USM LSAMP](https://lsamp.umbc.edu/program-description/usm-lsamp-research-program/) Summer Research Fellows about career pathways.
 * **Jul 2024** - Selected to participate in the 2024 [Dagstuhl Seminar - "Fair Division: Algorithms, Solution Concepts, and Applications"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24401) 
 * **Jul 2024** - 1 paper on Deepfake Text Detection with Topological Data Analysis accepted to [ECAI 2024](https://www.ecai2024.eu/), titled [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934)
