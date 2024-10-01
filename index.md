@@ -15,7 +15,7 @@ Specifically, I am interested in:
 
 **News**
 
-* **Sep 2024** - Selected to participate in the 2025 [EWM-EMS Summer School: Stability in Topological Data Analysis at Institut Mittag-Leffler](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-stability-in-topological-data-analysis/)
+* **Sep 2024** - Selected to participate in the 2025 [EWM-EMS Summer School: Stability in Topological Data Analysis](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-stability-in-topological-data-analysis/)  at [Institut Mittag-Leffler](https://www.mittag-leffler.se/)
 * **Sep 2024** - 1 paper on Evaluating the Adversarial robustness of multi-lingual deepfake text detector - [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) has been accepted to EMNLP-Findings 2024
 * **Jul 2024** - Invited to serve as a PC member at [Workshop on Detecting AI Generated Content (DAIGenC)](https://genai-content-detection.gitlab.io/) @ [COLING 2025](https://coling2025.org/) conference
 * **Jul 2024** - Invited to serve on a virtual panel of professionals to speak to [USM LSAMP](https://lsamp.umbc.edu/program-description/usm-lsamp-research-program/) Summer Research Fellows about career pathways.
