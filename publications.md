@@ -6,9 +6,13 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # PrePrints #
 
+- [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) <br>
+Ekaterina Artemova, Jason Lucas, Saranya Venkatraman, Jooyoung Lee, Sergei Tilga, **Adaku Uchendu**, Vladislav Mikhailov <br>
+ArXiv Preprint, November 2024 (*Under Review*)
+
 - [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) <br>
 Jooyoung Lee, Toshini Agrawal, **Adaku Uchendu**, Thai Le, Jinghui Chen, Dongwon Lee <br>
-ArXiv Preprint, June 2024 
+ArXiv Preprint, June 2024 (*Under Review*)
   
 
 
