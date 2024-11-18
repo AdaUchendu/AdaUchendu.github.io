@@ -15,6 +15,7 @@ Specifically, I am interested in:
 
 **News**
 
+* **Nov 2024** - A new preprint on a comprehensive survey of Topological Data Analysis applications in NLP, titled [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/pdf/2411.10298)
 * **Nov 2024** - A new preprint, titled [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) is available 
 * **Oct 2024** - Invited to review for [Nature Human Behaviour](https://www.nature.com/nathumbehav/) and to serve as PC member for [NAACL-HLT/ACL/EMNLP Tutorials 2025](https://2025.naacl.org/calls/tutorials/)
 * **Sep 2024** - Selected to participate in the 2025 [EWM-EMS Summer School: Stability in Topological Data Analysis](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-stability-in-topological-data-analysis/)  at [Institut Mittag-Leffler](https://www.mittag-leffler.se/)
