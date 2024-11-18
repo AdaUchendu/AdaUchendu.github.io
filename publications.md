@@ -6,6 +6,10 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # PrePrints #
 
+- [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/pdf/2411.10298) <br>
+**Adaku Uchendu**, Thai Le <br>
+ArXiv Preprint, November 2024
+
 - [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) <br>
 Ekaterina Artemova, Jason Lucas, Saranya Venkatraman, Jooyoung Lee, Sergei Tilga, **Adaku Uchendu**, Vladislav Mikhailov <br>
 ArXiv Preprint, November 2024 (*Under Review*)
