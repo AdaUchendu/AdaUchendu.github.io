@@ -15,6 +15,7 @@ Specifically, I am interested in:
 
 **News**
 
+* **Jan 2025** - Invited to serve as a PC member at [ECAI 2025](https://ecai2025.org/) conference
 * **Jan 2025** - 2 papers accepted to [NAACL 2025](https://2025.naacl.org/) - [PlagBench](https://arxiv.org/pdf/2406.16288) and [Beemo](https://arxiv.org/pdf/2411.04032?)
 * **Nov 2024** - A new preprint on a comprehensive survey of Topological Data Analysis applications in NLP, titled [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/pdf/2411.10298)
 * **Nov 2024** - A new preprint, titled [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) is available 
