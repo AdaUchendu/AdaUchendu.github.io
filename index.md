@@ -16,7 +16,7 @@ Specifically, I am interested in:
 **News**
 
 * **Mar 2025** - 1 paper on [Obfuscation and Impersonation attacks]() accepted to [NLP4DH](https://www.nlp4dh.com/nlp4dh-2025) @ NAACL 2025
-* **Mar 2025** - Served on a panel for UMBC McNair's *Let's Talk Grad School (LTGS) \#3: Careers After Graduate School*
+* **Mar 2025** - Served on a panel for UMBC McNair's [Let's Talk Grad School (LTGS) \#3: Careers After Graduate School](https://my3.my.umbc.edu/groups/public-mcnair/events/137605)
 * **Feb 2025** - Invited to serve as Area Chair for ACL RR (ACL 2025)
 * **Feb 2025** - Invited to Panels & Workshops reviewer for the 2025 [Tapia conference](https://cmd-it.org/tapia-conference/)
 * **Jan 2025** - Invited to serve as a PC member at [ECAI 2025](https://ecai2025.org/) conference
