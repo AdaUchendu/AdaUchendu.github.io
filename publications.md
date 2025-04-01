@@ -6,6 +6,11 @@ See full Publication list on [Google Scholar](https://scholar.google.ae/citation
 
 # PrePrints #
 
+- [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242) <br>
+Dominik Macko, Aashish Anantha Ramakrishnan, Jason Samuel Lucas, Robert Moro, Ivan Srba, Adaku Uchendu, Dongwon Lee <br>
+ArXiv Preprint, March 2025
+
+  
 - [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/pdf/2411.10298) <br>
 **Adaku Uchendu**, Thai Le <br>
 ArXiv Preprint, November 2024
