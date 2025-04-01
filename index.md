@@ -14,7 +14,6 @@ Specifically, I am interested in:
 <br>
 
 **News**
-<details>
 * **Mar 2025** - A new preprint, about investigating the prevalence of machine-generated texts in disinformation datasets - [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242)
 * **Mar 2025** - 1 paper on [Obfuscation and Impersonation attacks](https://arxiv.org/abs/2503.19099) accepted to [NLP4DH](https://www.nlp4dh.com/nlp4dh-2025) @ NAACL 2025
 * **Mar 2025** - Served on a panel for UMBC McNair's [Let's Talk Grad School (LTGS) \#3: Careers After Graduate School](https://my3.my.umbc.edu/groups/public-mcnair/events/137605)
@@ -45,7 +44,6 @@ Specifically, I am interested in:
 * **Oct 2023** - Tutorial: [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Tutorials/) accepted at [NAACL 2024](https://2024.naacl.org/program/tutorials/)
 * **Oct 2023** - A new preprint titled, [GPT-who: An Information Density-based Machine-Generated Text Detector](https://browse.arxiv.org/abs/2310.06202) is available
 * **Sep 2023** - A new preprint titled, [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://browse.arxiv.org/abs/2309.12934) is available
-</details>
 
 
 <br>
