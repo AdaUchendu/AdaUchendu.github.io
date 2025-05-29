@@ -14,6 +14,7 @@ Specifically, I am interested in:
 <br>
 
 **News**
+* **May 2025** - Invited to serve as a PC member for [RANLP 2025](https://ranlp.org/ranlp2025/)
 * **Apr 2025** - Invited to serve as Senior Area Chair (SAC) for EMNLP 2025
 * **Mar 2025** - A new preprint, about investigating the prevalence of machine-generated texts in disinformation datasets - [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242)
 * **Mar 2025** - 1 paper on [Obfuscation and Impersonation attacks](https://arxiv.org/abs/2503.19099) accepted to [NLP4DH](https://www.nlp4dh.com/nlp4dh-2025) @ NAACL 2025
