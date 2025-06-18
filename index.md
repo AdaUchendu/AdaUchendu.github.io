@@ -14,7 +14,10 @@ Specifically, I am interested in:
 <br>
 
 **News**
+* **Jun 2025** - Invited to serve as Area chair for [IEEE DSAA 2025](https://dsaa.ieee.org/2025/)
+* **Jun 2025** - Invited to attend and present a poster at the Uchicago's [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/) TDA workshop - [The Geometric Realization of AATRN (Applied Algebraic Topology Research Network](https://www.imsi.institute/activities/the-geometric-realization-of-aatrn-applied-algebraic-topology-research-network/)
 * **May 2025** - Invited to serve as a PC member for [RANLP 2025](https://ranlp.org/ranlp2025/)
+* **May 2025** - Invited to submit to the Topology and Computing special session at the [39th Summer Topology and Its Applications Conference](https://preview.scholarlattice.org/collections/26c1e386-636e-4ed2-8818-3ec1444a4e98)
 * **Apr 2025** - Invited to serve as Senior Area Chair (SAC) for EMNLP 2025
 * **Mar 2025** - A new preprint, about investigating the prevalence of machine-generated texts in disinformation datasets - [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242)
 * **Mar 2025** - 1 paper on [Obfuscation and Impersonation attacks](https://arxiv.org/abs/2503.19099) accepted to [NLP4DH](https://www.nlp4dh.com/nlp4dh-2025) @ NAACL 2025
