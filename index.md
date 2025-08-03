@@ -14,6 +14,7 @@ Specifically, I am interested in:
 <br>
 
 **News**
+* **Jul 2025** - Invited to present at the 2025 SSMN (Sloan Scholars Mentoring Network) Research Symposium 
 * **Jun 2025** - Invited to serve as Area chair for [IEEE DSAA 2025](https://dsaa.ieee.org/2025/)
 * **Jun 2025** - Invited to attend and present a poster at the Uchicago's [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/) TDA workshop - [The Geometric Realization of AATRN (Applied Algebraic Topology Research Network](https://www.imsi.institute/activities/the-geometric-realization-of-aatrn-applied-algebraic-topology-research-network/)
 * **May 2025** - Invited to serve as a PC member for [RANLP 2025](https://ranlp.org/ranlp2025/)
