@@ -22,38 +22,38 @@ Specifically, I am interested in:
 * **May 2025** - Invited to submit to the Topology and Computing special session at the [39th Summer Topology and Its Applications Conference](https://preview.scholarlattice.org/collections/26c1e386-636e-4ed2-8818-3ec1444a4e98)
 
 <details>
-    <summary>Old News</summary>
-* **Apr 2025** - Invited to serve as Senior Area Chair (SAC) for EMNLP 2025
-* **Mar 2025** - A new preprint, about investigating the prevalence of machine-generated texts in disinformation datasets - [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242)
-* **Mar 2025** - 1 paper on [Obfuscation and Impersonation attacks](https://arxiv.org/abs/2503.19099) accepted to [NLP4DH](https://www.nlp4dh.com/nlp4dh-2025) @ NAACL 2025
-* **Mar 2025** - Served on a panel for UMBC McNair's [Let's Talk Grad School (LTGS) \#3: Careers After Graduate School](https://my3.my.umbc.edu/groups/public-mcnair/events/137605)
-* **Feb 2025** - Invited to serve as Area Chair for ACL RR (ACL 2025)
-* **Feb 2025** - Invited to Panels & Workshops reviewer for the 2025 [Tapia conference](https://cmd-it.org/tapia-conference/)
-* **Jan 2025** - Invited to serve as a PC member at [ECAI 2025](https://ecai2025.org/) conference
-* **Jan 2025** - 2 papers accepted to [NAACL 2025](https://2025.naacl.org/) - [PlagBench](https://arxiv.org/pdf/2406.16288) and [Beemo](https://arxiv.org/pdf/2411.04032?)
-* **Nov 2024** - A new preprint on a comprehensive survey of Topological Data Analysis applications in NLP, titled [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/pdf/2411.10298) is available 
-* **Nov 2024** - A new preprint, titled [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) is available 
-* **Oct 2024** - Invited to review for [Nature Human Behaviour](https://www.nature.com/nathumbehav/) and to serve as PC member for [NAACL-HLT/ACL/EMNLP Tutorials 2025](https://2025.naacl.org/calls/tutorials/)
-* **Sep 2024** - Selected to participate in the 2025 [EWM-EMS Summer School: Stability in Topological Data Analysis](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-stability-in-topological-data-analysis/)  at [Institut Mittag-Leffler](https://www.mittag-leffler.se/)
-* **Sep 2024** - 1 paper on Evaluating the Adversarial robustness of multi-lingual deepfake text detector - [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) has been accepted to EMNLP-Findings 2024
-* **Jul 2024** - Invited to serve as a PC member at [Workshop on Detecting AI Generated Content (DAIGenC)](https://genai-content-detection.gitlab.io/) @ [COLING 2025](https://coling2025.org/) conference
-* **Jul 2024** - Invited to serve on a virtual panel of professionals to speak to [USM LSAMP](https://lsamp.umbc.edu/program-description/usm-lsamp-research-program/) Summer Research Fellows about career pathways.
-* **Jul 2024** - Selected to participate in the 2024 [Dagstuhl Seminar - "Fair Division: Algorithms, Solution Concepts, and Applications"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24401) 
-* **Jul 2024** - 1 paper on Deepfake Text Detection with Topological Data Analysis accepted to [ECAI 2024](https://www.ecai2024.eu/), titled [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934)
-* **Jun 2024** - A new preprint titled, [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1)
-* **May 2024** - Invited to be a Reviewer for [Widening Natural Language Processing (WiNLP) 2024](https://www.winlp.org/)
-* **May 2024** - 1 paper on the philosophical paradox of authorship before and after authorship masking - [A Ship of Theseus](https://arxiv.org/pdf/2311.08374) has been accepted to ACL'24
-* **May 2024** - Invited to give a talk at the [Geo Regional African Group](https://sites.google.com/cohere.com/c4ai-community/community-programs/regional-africa) at [Cohere for AI](https://cohere.com/events/c4ai-Adaku-Uchendu-2024)
-* **Apr 2024** - Selected to participate in the [11th Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/) 2024
-* **Mar 2024** - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - [GPT-who](https://browse.arxiv.org/abs/2310.06202) has been accepted to NAACL-Findings'24
-* **Mar 2024** - Invited to be a PC member at [ECAI 2024](https://www.ecai2024.eu/committees/pc) conference
-* **Jan 2024** - Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th
-* **Jan 2024** - A new preprint titled, [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available 
-* **Dec 2023** - Attended EMNLP 2023 in person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)
-* **Nov 2023** - A new preprint titled, [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/abs/2311.08374) is available
-* **Oct 2023** - Tutorial: [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Tutorials/) accepted at [NAACL 2024](https://2024.naacl.org/program/tutorials/)
-* **Oct 2023** - A new preprint titled, [GPT-who: An Information Density-based Machine-Generated Text Detector](https://browse.arxiv.org/abs/2310.06202) is available
-* **Sep 2023** - A new preprint titled, [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://browse.arxiv.org/abs/2309.12934) is available
+    <summary><b>Toggle Old News</b></summary>
+<li> <b>Apr 2025</b> - Invited to serve as Senior Area Chair (SAC) for EMNLP 2025 </li>
+<li> <b>Mar 2025</b> - A new preprint, about investigating the prevalence of machine-generated texts in disinformation datasets - [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242) </li>
+<li> <b>Mar 2025</b> - 1 paper on [Obfuscation and Impersonation attacks](https://arxiv.org/abs/2503.19099) accepted to [NLP4DH](https://www.nlp4dh.com/nlp4dh-2025) @ NAACL 2025 </li>
+<li> <b>Mar 2025</b> - Served on a panel for UMBC McNair's [Let's Talk Grad School (LTGS) \#3: Careers After Graduate School](https://my3.my.umbc.edu/groups/public-mcnair/events/137605) </li>
+<li> <b>Feb 2025</b> - Invited to serve as Area Chair for ACL RR (ACL 2025) </li>
+<li> <b>Feb 2025</b> - Invited to Panels & Workshops reviewer for the 2025 [Tapia conference](https://cmd-it.org/tapia-conference/) </li>
+<li> <b>Jan 2025</b> - Invited to serve as a PC member at [ECAI 2025](https://ecai2025.org/) conference </li>
+<li> <b>Jan 2025</b> - 2 papers accepted to [NAACL 2025](https://2025.naacl.org/) - [PlagBench](https://arxiv.org/pdf/2406.16288) and [Beemo](https://arxiv.org/pdf/2411.04032?) </li>
+<li> <b>Nov 2024</b> - A new preprint on a comprehensive survey of Topological Data Analysis applications in NLP, titled [Unveiling Topological Structures in Text: A Comprehensive Survey of Topological Data Analysis Applications in NLP](https://arxiv.org/pdf/2411.10298) is available </li>
+<li> <b>Nov 2024</b> - A new preprint, titled [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) is available </li>
+<li> <b>Oct 2024</b> - Invited to review for [Nature Human Behaviour](https://www.nature.com/nathumbehav/) and to serve as PC member for [NAACL-HLT/ACL/EMNLP Tutorials 2025](https://2025.naacl.org/calls/tutorials/) </li>
+<li> <b>Sep 2024</b> - Selected to participate in the 2025 [EWM-EMS Summer School: Stability in Topological Data Analysis](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-stability-in-topological-data-analysis/)  at [Institut Mittag-Leffler](https://www.mittag-leffler.se/) </li>
+<li> <b>Sep 2024</b> - 1 paper on Evaluating the Adversarial robustness of multi-lingual deepfake text detector - [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) has been accepted to EMNLP-Findings 2024 </li>
+<li> <b>Jul 2024</b> - Invited to serve as a PC member at [Workshop on Detecting AI Generated Content (DAIGenC)](https://genai-content-detection.gitlab.io/) @ [COLING 2025](https://coling2025.org/) conference </li>
+<li> <b>Jul 2024</b> - Invited to serve on a virtual panel of professionals to speak to [USM LSAMP](https://lsamp.umbc.edu/program-description/usm-lsamp-research-program/) Summer Research Fellows about career pathways. </li>
+<li> <b>Jul 2024</b> - Selected to participate in the 2024 [Dagstuhl Seminar - "Fair Division: Algorithms, Solution Concepts, and Applications"](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24401)  </li>
+<li> <b>Jul 2024</b> - 1 paper on Deepfake Text Detection with Topological Data Analysis accepted to [ECAI 2024](https://www.ecai2024.eu/), titled [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934)  </li>
+<li> <b>Jun 2024</b> - A new preprint titled, [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) </li>
+<li> <b>May 2024</b> - Invited to be a Reviewer for [Widening Natural Language Processing (WiNLP) 2024](https://www.winlp.org/)  </li>
+<li> <b>May 2024</b> - 1 paper on the philosophical paradox of authorship before and after authorship masking - [A Ship of Theseus](https://arxiv.org/pdf/2311.08374) has been accepted to ACL'24 </li>
+<li> <b>May 2024</b> - Invited to give a talk at the [Geo Regional African Group](https://sites.google.com/cohere.com/c4ai-community/community-programs/regional-africa) at [Cohere for AI](https://cohere.com/events/c4ai-Adaku-Uchendu-2024) </li>
+<li> <b>Apr 2024</b> - Selected to participate in the [11th Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/) 2024  </li>
+<li> <b>Mar 2024</b> - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - [GPT-who](https://browse.arxiv.org/abs/2310.06202) has been accepted to NAACL-Findings'24 </li>
+<li> <b>Mar 2024</b> - Invited to be a PC member at [ECAI 2024](https://www.ecai2024.eu/committees/pc) conference  </li>
+<li> <b>Jan 2024</b> - Upcoming Invited Talk at [St. George's University, Grenada](https://www.sgu.edu/) on Feb 15th  </li>
+<li> <b>Jan 2024</b> - A new preprint titled, [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/abs/2401.07867) is available  </li>
+<li> <b>Dec 2023</b> - Attended EMNLP 2023 in person for 3 accepted papers - [MULTITuDE](https://arxiv.org/abs/2310.13606), [F3](https://arxiv.org/abs/2310.15515), and [HANSEN](https://arxiv.org/abs/2310.16746)  </li>
+<li> <b>Nov 2023</b> - A new preprint titled, [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/abs/2311.08374) is available  </li>
+<li> <b>Oct 2023</b> - Tutorial: [Catch Me If You GPT: Tutorial on Deepfake Texts](https://adauchendu.github.io/Tutorials/) accepted at [NAACL 2024](https://2024.naacl.org/program/tutorials/)  </li>
+<li> <b>Oct 2023</b> - A new preprint titled, [GPT-who: An Information Density-based Machine-Generated Text Detector](https://browse.arxiv.org/abs/2310.06202) is available  </li>
+<li> <b>Sep 2023</b> - A new preprint titled, [TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts](https://browse.arxiv.org/abs/2309.12934) is available </li>
 </details>
 
 <br>
