@@ -16,6 +16,10 @@ ArXiv Preprint, November 2024 *(Under Review)*
 # Proceedings  #
 *means equal contribution
 
+1. [“Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models]() <br>
+William Guo, Ana Smith, **Adaku Uchendu** <br>
+Undergraduate and High School Symposium (UGHS) @ IEEE ICDM 2025, Washington D.C., November 2025
+
 1. [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242) <br>
 Dominik Macko, Aashish Anantha Ramakrishnan, Jason Samuel Lucas, Robert Moro, Ivan Srba, **Adaku Uchendu**, Dongwon Lee <br>
 IEEE Computer, 2026
