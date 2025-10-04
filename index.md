@@ -14,6 +14,7 @@ Specifically, I am interested in:
 <br>
 
 **News**
+* **Oct 2025** - 1 paper on Evaluating the linguistic and adversarial robustness of Watermarking techniques for LLMs accepted to the [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/) at IEEE ICDM 2025. Congrats to Will!
 * **Jul 2025** - 1 paper accepted at the 2026 IEEE Computer journal, titled [Beyond Speculation: Measuring the Growing Presence of LLM-Generated Texts in Multilingual Disinformation](https://arxiv.org/abs/2503.23242)
 * **Jul 2025** - Invited to present at the 2025 SSMN (Sloan Scholars Mentoring Network) Research Symposium 
 * **Jun 2025** - Invited to serve as Area chair for [IEEE DSAA 2025](https://dsaa.ieee.org/2025/)
