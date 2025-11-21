@@ -14,7 +14,7 @@ Specifically, I am interested in:
 <br>
 
 **News**
-* **Nov 2025** - Awarded the *Rising star award* for ICDM 2025 Undergraduate & High school symposium paper on "*Evaluating Watermarking techniques in LLMs*"
+* **Nov 2025** - Awarded the *Rising star award* for ICDM 2025 Undergraduate & High school symposium paper on "*[Evaluating Watermarking techniques in LLMs](https://arxiv.org/pdf/2511.13722)*"
 * **Nov 2025** - Invited to talk at the [MITES' Fall Symposium](https://www.eventbrite.com/e/mites-saturdays-fall-symposium-tickets-1853599077739) on the Possibilities and Pitfalls of AI 
 * **Oct 2025** - 1 paper on Evaluating the linguistic and adversarial robustness of Watermarking techniques for LLMs accepted to the [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/) at IEEE ICDM 2025. Congrats to Will!
 * **Jul 2025** - 1 paper accepted at the 2026 IEEE Computer journal, titled [Beyond Speculation: Measuring the Growing Presence of LLM-Generated Texts in Multilingual Disinformation](https://arxiv.org/abs/2503.23242)
