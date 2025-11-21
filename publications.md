@@ -16,7 +16,7 @@ ArXiv Preprint, November 2024 *(Under Review)*
 # Proceedings  #
 *means equal contribution
 
-1. [“Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models]() <br>
+1. [“Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models](https://arxiv.org/pdf/2511.13722) <br>
 William Guo, Ana Smith, **Adaku Uchendu** <br>
 Undergraduate and High School Symposium (UGHS) @ IEEE ICDM 2025, Washington D.C., November 2025
 
