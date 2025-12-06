@@ -5,8 +5,10 @@ layout: page
 ---
 # Invited Talks & Presentations #
 
-1. Topological Data Analysis for NLP, at Harvard’s Graduate course - Strategic Business Analytics (taught by Dr. Alexis Montecinos Bravo), Virtual, December 11, 2025
+1. Topological Data Analysis for NLP, at Harvard’s Graduate course - Strategic Business Analytics (taught by Dr. Alexis Montecinos Bravo), Virtual, December 11, 2025.
+   
 2. Possibilities and Pitfalls of AI: Career and Research Talk, at [MIT Introduction to Technology, Engineering, and Science](https://mites.mit.edu/) (MITES)’s Saturdays Fall Symposium,  Boston, Massachusetts, November 22, 2025.
+   
 3. Unveiling Topological Structures from Language: A Comprehensive Survey of Topological Data Analysis Applications in NLP, at the [2025 Sloan Scholars Mentoring Network (SSMN) Research Symposium](https://sloan-scholars.ssrc.org/page/ssmn-research-symposium-2025), Atlanta, Georgia, October 29-30, 2025
    
 4. Unveiling Topological Structures from Language: A Comprehensive Survey of TDA Applications in NLP, at [The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)](https://www.imsi.institute/activities/the-geometric-realization-of-aatrn-applied-algebraic-topology-research-network/), Poster, Chicago, Illinois, August 19, 2025.
