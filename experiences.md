@@ -5,7 +5,7 @@ layout: page
 ---
 # Invited Talks & Presentations #
 
-1. Topological Data Analysis for NLP, at Harvard’s Graduate course - Strategic Business Analytics (taught by Dr. Alexis Montecinos Bravo), Virtual, December 11, 2025.
+1. Topological Data Analysis for NLP, at Harvard’s Graduate course - Strategic Business Analytics (taught by [Dr. Alexis Montecinos Bravo](https://www.linkedin.com/in/alexis-montecinos-bravo?trk=public_post_feed-actor-name)), Virtual, December 11, 2025.
    
 2. Possibilities and Pitfalls of AI: Career and Research Talk, at [MIT Introduction to Technology, Engineering, and Science](https://mites.mit.edu/) (MITES)’s Saturdays Fall Symposium,  Boston, Massachusetts, November 22, 2025.
    
