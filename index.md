@@ -15,6 +15,7 @@ Specifically, I am interested in:
 
 **News**
 * **Jan 2026** - Invited to serve as an Associate Editor for [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data) journal
+* **Dec 2025** - Invited to serve as an Editorial Manager for [Elsevier’s Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) journal
 * **Dec 2025** - Invited to serve as Senior Area Chair for [ACL 2026](https://2026.aclweb.org/)
 * **Nov 2025** - Invited by Prof. Alexis Montecinos to give a guest lecture for a Strategic Business AI course at Harvard University. 
 * **Nov 2025** - Awarded the *Rising star award* for ICDM 2025 Undergraduate & High school symposium paper on "*[Evaluating Watermarking techniques in LLMs](https://arxiv.org/pdf/2511.13722)*"
