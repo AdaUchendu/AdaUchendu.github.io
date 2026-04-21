@@ -14,7 +14,7 @@ Specifically, I am interested in:
 <br>
 
 **News**
-* **April 2026** - 1 paper accepted to ACL 2026 and 1 paper accepted ACL-Industry 2026
+* **April 2026** - 1 paper accepted to ACL 2026, 1 paper accepted ACL-Industry 2026, and 1 paper (TDA Survey) accepted to KDD Explorations journal
 * **March 2026** - Invited to serve as Senior Area Chair for [EMNLP 2026](https://2026.emnlp.org/)
 * **Jan 2026** - Invited to serve as an Associate Editor for [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data) journal
 * **Dec 2025** - Invited to serve as an Editorial Manager for [Elsevier’s Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) journal
