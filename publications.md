@@ -5,7 +5,10 @@ title: Publications
 See full Publication list on [Google Scholar](https://scholar.google.ae/citations?user=A4be1l4AAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pid/244/0488.html).
 
 # PrePrints #
-  
+- [BLUFF: Benchmarking the Detection of False and Synthetic Content across 58 Low-Resource Languages](https://arxiv.org/abs/2603.00634) <br>
+Jason Lucas, Matt Murtagh-White, **Adaku Uchendu**, Ali Al-Lawati, Michiharu Yamashita, Dominik Macko, Ivan Srba, Robert Moro, Dongwon Lee <br>
+Arxiv preprint 
+
 
   
 
