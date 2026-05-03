@@ -16,96 +16,104 @@ Arxiv preprint
 # Proceedings  #
 *means equal contribution
 
-1. [Topological Data Analysis Applications in Natural Language Processing: A Survey](https://arxiv.org/pdf/2411.10298) <br>
-**Adaku Uchendu**, Thai Le <br>
-KDD Explorations, June 2026
+1. [Position: Breaking the Dual Curse of Multilingual AI Requires Socio-Technical Guardrails, Not Post-Hoc Alignment] <br>
+Jason Lucas, Pureheart Ogheneogaga Irikefe, **Adaku Uchendu**, Umniya Najaer, Cornelius Onimisi Adejoro, Patrice Sterling, Dongwon Lee <br>
+ICML 2026 Position Paper track, July 2026
 
-2. [Synthetic Text Detection in the Age of Large Language Models: Watermark vs. Automatic Detection]() <br>
+2. [The Shape of Vulnerability: How Adversarial Perturbations Reshape the Topology of Language Model Latent Spaces] <br>
+Angelina Tsai, Shreya Subramanian, Catherine Liu, Kimberly Lopez, Leif Zinn-Brooks, Alexia Schultz, **Adaku Uchendu** <br>
+ACL 2026 Student Research Workshop (SRW), July 2026
+
+3. [Synthetic Text Detection in the Age of Large Language Models: Watermark vs. Automatic Detection]() <br>
 **Adaku Uchendu** <br>
 ACL 2026 Industry Track, San Diego, California, July 2026
 
-3. [DIA-HARM: Harmful Content Detection Robustness Across 50 English Dialects](https://arxiv.org/abs/2604.05318) <br>
+4. [DIA-HARM: Harmful Content Detection Robustness Across 50 English Dialects](https://arxiv.org/abs/2604.05318) <br>
 Jason Lucas, *Matt Murtagh-White, *Ali Lawati, Uchendu Uchendu, **Adaku Uchendu**, Dongwon Lee  <br>
 ACL 2026, San Diego, California, July 2026
 
-4. [Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models](https://arxiv.org/pdf/2511.13722) <br>
+5. [Topological Data Analysis Applications in Natural Language Processing: A Survey](https://arxiv.org/pdf/2411.10298) <br>
+**Adaku Uchendu**, Thai Le <br>
+KDD Explorations, June 2026
+
+6. [Signature vs. Substance: Evaluating the Balance of Adversarial Resistance and Linguistic Quality in Watermarking Large Language Models](https://arxiv.org/pdf/2511.13722) <br>
 William Guo, Ana Smith, **Adaku Uchendu** <br>
 Undergraduate and High School Symposium (UGHS) @ IEEE ICDM 2025, Washington D.C., November 2025
 
-5. [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242) <br>
+7. [Beyond speculation: Measuring the growing presence of LLM-generated texts in multilingual disinformation](https://arxiv.org/abs/2503.23242) <br>
 Dominik Macko, Aashish Anantha Ramakrishnan, Jason Samuel Lucas, Robert Moro, Ivan Srba, **Adaku Uchendu**, Dongwon Lee <br>
 IEEE Computer, 2026
 
-6. [Masks and Mimicry: Strategic Obfuscation and Impersonation Attacks on Authorship Verification]()<br>
+8. [Masks and Mimicry: Strategic Obfuscation and Impersonation Attacks on Authorship Verification]()<br>
 Kenneth Alperin, Rohan Leekha, **Adaku Uchendu**, Trang Nguyen, Srilakshmi Medarametla, Carlos Levya Capote, Seth Aycock, Charlie K. Dagli <br>
 *NLP4DH (Natural Language Processing for Digital Humanities) Workshop* @ NAACL 2025, Albuquerque, New Mexico, April 2025
 
-7. [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) <br>
+9. [PlagBench: Exploring the Duality of Large Language Models in Plagiarism Generation and Detection](https://arxiv.org/pdf/2406.16288v1) <br>
 Jooyoung Lee, Toshini Agrawal, **Adaku Uchendu**, Thai Le, Jinghui Chen, Dongwon Lee <br>
 NAACL 2025, Albuquerque, New Mexico, April 2025 
 
-8. [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) <br>
+10. [Beemo: Benchmark of Expert-edited Machine-generated Outputs](https://arxiv.org/pdf/2411.04032) <br>
 Ekaterina Artemova, Jason Lucas, Saranya Venkatraman, Jooyoung Lee, Sergei Tilga, **Adaku Uchendu**, Vladislav Mikhailov <br>
 NAACL 2025, Albuquerque, New Mexico, April 2025 
 
-9. [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/pdf/2401.07867.pdf) <br>
+11. [Authorship Obfuscation in Multilingual Machine-Generated Text Detection](https://arxiv.org/pdf/2401.07867.pdf) <br>
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Ivan Srba, Jason Lucas, Michiharu Yamashita, Nafis Irtiza Tripto, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
 EMNLP-Findings 2024, Maimi, Florida, November 2024
 
-10. [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934.pdf) <br>
+12. [TOPFORMER: Topology-Aware Authorship Attribution of Deepfake Texts with Diverse Writing Styles](https://arxiv.org/pdf/2309.12934.pdf) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 ECAI (European Conference on Artificial Intelligence) 2024, Santiago de Compostela, Spain, October 2024
 
-11. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
+13. [A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts](https://arxiv.org/pdf/2311.08374.pdf) <br>
 Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 ACL 2024, Bangkok, Thailand, August 2024
 
-12. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2310.06202.pdf) <br>
+14. [GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/pdf/2310.06202.pdf) <br>
 Saranya Venkatraman, **Adaku Uchendu**, Dongwon Lee <br>
 NAACL-Findings 2024, Mexico City, Mexico, June 2024
 
-13. [MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark](https://aclanthology.org/2023.emnlp-main.616.pdf) <br>
+15. [MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark](https://aclanthology.org/2023.emnlp-main.616.pdf) <br>
 Dominik Macko, Robert Moro, **Adaku Uchendu**, Jason Lucas, Michiharu Yamashita, Matúš Pikuliak, Ivan Srba, Thai Le, Dongwon Lee, Jakub Simko, Maria Bielikova <br>
 EMNLP 2023, Singapore, December 2023
 
-14. [HANSEN: Human and AI Spoken Text Benchmark for Authorship Analysis](https://aclanthology.org/2023.findings-emnlp.916.pdf) <br>
+16. [HANSEN: Human and AI Spoken Text Benchmark for Authorship Analysis](https://aclanthology.org/2023.findings-emnlp.916.pdf) <br>
 Nafis Irtiza Tripto, **Adaku Uchendu**, Thai Le, Mattia Setzu, Fosca Giannotti, Dongwon Lee <br>
 EMNLP-Findings 2023, Singapore, December 2023
 
-15. [Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation](https://aclanthology.org/2023.emnlp-main.883.pdf) <br>
+17. [Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation](https://aclanthology.org/2023.emnlp-main.883.pdf) <br>
 Jason Lucas, **Adaku Uchendu**, Michiharu Yamashita, Jooyoung Lee, Shaurya Rohatgi, Dongwon Lee <br>
 EMNLP 2023, Singapore, December 2023
 
-16. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002) <br>
+18. [Does Human Collaboration Enhance the Accuracy of Identifying LLM-Generated Deepfake Texts?](https://arxiv.org/abs/2304.01002) <br>
 ***Adaku Uchendu**, *Jooyoung Lee, *Hua Shen, Thai Le, Ting-Hao 'Kenneth' Huang, Dongwon Lee <br>
 11th AAAI Conf. on Human Computation and Crowdsourcing (HCOMP), Delft, Netherlands, November 2023
 
-17. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://dl.acm.org/doi/pdf/10.1145/3606274.3606276?casa_token=mH78K7icCqgAAAAA:HQcHMZcQn11pVU9XTKK0O5RcArqpuRTMXdK_89oTUSPrr5irabhnDeUFoOVZAJabVBh4bjC7nYPF9g) <br>
+19. [Attribution and Obfuscation of Neural Text Authorship: A Data Mining Perspective](https://dl.acm.org/doi/pdf/10.1145/3606274.3606276?casa_token=mH78K7icCqgAAAAA:HQcHMZcQn11pVU9XTKK0O5RcArqpuRTMXdK_89oTUSPrr5irabhnDeUFoOVZAJabVBh4bjC7nYPF9g) <br>
 **Adaku Uchendu**, Thai Le, Dongwon Lee <br>
 SIGKDD Explorations, Vol. 25(1), June 2023 [[arXiv version](https://arxiv.org/pdf/2210.10488.pdf)]
 
-18. [Tutorials at The Web Conference 2023](https://dl.acm.org/doi/abs/10.1145/3543873.3587713) <br>
+20. [Tutorials at The Web Conference 2023](https://dl.acm.org/doi/abs/10.1145/3543873.3587713) <br>
 Fionda, V., et al., **Adaku Uchendu**, Thai Le, Dongwon Lee, et al. <br>
 The ACM Web Conference (WWW), Austin, TX, April 2023 (Tutorial)
 
-19. [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
+21. [Robustness of Bayesian Neural Networks to White-Box Adversarial Attacks](https://arxiv.org/abs/2111.08591) <br>
 **Adaku Uchendu**,  Daniel  Campoy,  Christopher  Menart, Alexandra  Hildenbrandt <br>
 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE). IEEE, December 2021.
 <!-- * <em>(Full Paper Acceptance Rate: 30.95% (13/42))</em> -->
 
-20. [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
+22. [TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation](https://arxiv.org/abs/2109.13296) <br>
 **Adaku Uchendu**, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee <br>
 In Findings of the Association for Computational Linguistics: EMNLP 2021, November 2021 <em>(Acceptance Rate: 11.6% (419/3,600))</em>
 
-21. [Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) <br>
+23. [Authorship Attribution for Neural Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) <br>
 **Adaku Uchendu**, Thai Le, Kai Shu, Dongwon Lee. <br>
 In Conf. on Empirical Methods in Natural Language Processing (EMNLP), Virtual Event, November 2020. <em>(Acceptance Rate: 22.4% (754/3,359))</em>
 
-22. [Characterizing Man-made vs. Machine-made Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf) <br>
+24. [Characterizing Man-made vs. Machine-made Chatbot Dialogs](https://truthandtrustonline.com/wp-content/uploads/2019/09/paper_27.pdf) <br>
 **Adaku Uchendu**, Jeffrey Cao, Qiaozhi Wang, Bo Luo, Dongwon Lee. <br> 
 In Conf. on Truth and Trust Online (TTO), London, UK, October 2019.
 
-23. [A Reverse Turing Test for Detecting Machine-Made Texts](https://pike.psu.edu/publications/websci19-rtt.pdf) <br> 
+25. [A Reverse Turing Test for Detecting Machine-Made Texts](https://pike.psu.edu/publications/websci19-rtt.pdf) <br> 
 Jialin Shao, **Adaku Uchendu**, Dongwon Lee. (2019). <br> 
 In 11th Int'l ACM Web Science Conf. (WebSci), Boston, MA, July 2019.
 
