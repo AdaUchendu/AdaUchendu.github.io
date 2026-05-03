@@ -16,11 +16,11 @@ Arxiv preprint
 # Proceedings  #
 *means equal contribution
 
-1. [Position: Breaking the Dual Curse of Multilingual AI Requires Socio-Technical Guardrails, Not Post-Hoc Alignment] <br>
+1. [Position: Breaking the Dual Curse of Multilingual AI Requires Socio-Technical Guardrails, Not Post-Hoc Alignment]() <br>
 Jason Lucas, Pureheart Ogheneogaga Irikefe, **Adaku Uchendu**, Umniya Najaer, Cornelius Onimisi Adejoro, Patrice Sterling, Dongwon Lee <br>
 ICML 2026 Position Paper track, July 2026
 
-2. [The Shape of Vulnerability: How Adversarial Perturbations Reshape the Topology of Language Model Latent Spaces] <br>
+2. [The Shape of Vulnerability: How Adversarial Perturbations Reshape the Topology of Language Model Latent Spaces]() <br>
 Angelina Tsai, Shreya Subramanian, Catherine Liu, Kimberly Lopez, Leif Zinn-Brooks, Alexia Schultz, **Adaku Uchendu** <br>
 ACL 2026 Student Research Workshop (SRW), July 2026
 
