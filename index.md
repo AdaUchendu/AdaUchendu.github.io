@@ -14,6 +14,7 @@ Specifically, I am interested in:
 <br>
 
 **News**
+* **May 2026** - 1 paper accepted to KDD 2026 and 1 paper accepted to ACL 2026 CustomNLP workshop
 * **April 2026** - 1 position paper accepted to ICML 2026 
 * **April 2026** - 1 paper (TDA Survey) accepted to KDD Explorations journal
 * **April 2026** - 1 paper accepted to ACL 2026, 1 paper accepted ACL-Industry 2026, and 1 paper accepted to ACL 2026 SRW (Congrats Angie!)
