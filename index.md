@@ -3,7 +3,7 @@ layout: page
 title: Adaku Uchendu 
 
 ---
-I am an AI Engineer & Researcher at MIT Lincoln Lab. I earned my Ph.D. in [Information Sciences and Technology](https://ist.psu.edu/) at The Pennsylvania State University under the guidance of [Dr. Dongwon Lee](http://pike.psu.edu/dongwon/) at the [PIKE Lab](http://pike.psu.edu/) in August 2023. While at Penn State, I was a Button-Waller Fellow, an NSF Scholarship for Service Scholar, and an Alfred P. Sloan Scholar. I earned a B.S. in Mathematics, with a minor in Statistics at [University of Maryland Baltimore County](https://umbc.edu/) (UMBC) in May 2018. While at UMBC, I was a McNair scholar and a member of Pi Mu Epsilon (the Mathematical Honorary Society). My research interests are: Artificial Intelligence, Machine Learning, and Data mining in the application domain of Cybersecurity. 
+I am an AI Engineer & Researcher at MIT Lincoln Lab. I earned my Ph.D. in [Information Sciences and Technology](https://ist.psu.edu/) at The Pennsylvania State University under the guidance of [Dr. Dongwon Lee](http://pike.psu.edu/dongwon/) at the [PIKE Lab](http://pike.psu.edu/) in August 2023. While at Penn State, I was a Button-Waller Fellow, an NSF Scholarship for Service Scholar, and an Alfred P. Sloan Scholar. I earned a B.S. in Mathematics, with a minor in Statistics at [University of Maryland Baltimore County](https://umbc.edu/) (UMBC) in May 2018. While at UMBC, I was a McNair scholar and a member of Pi Mu Epsilon (the Mathematical Honorary Society). My research interests are: Artificial Intelligence, Machine Learning, and Data Mining in the application domain of Cybersecurity. 
 Specifically, I am interested in:
 * NLP (Natural Language Processing)
 * NLG (Natural Language Generation), such as Large Language Models (LLMs) 
@@ -14,6 +14,11 @@ Specifically, I am interested in:
 <br>
 
 **News**
+* **September 2026** - Got accepted to Women in Computational Topology (WinCompTop) 2027
+* **August 2026** - Invited to give a talk at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/)
+* **July 2026** - Received Social Impact paper award @ ACL 2026
+* **August 2026** - Invited to give a talk at the Computer Science Fall Colloquium @ Indiana University Bloomington
+* **June 2026** - Invited as Keynote speaker for the Tweens & Teens Conference 2026
 * **May 2026** - 1 paper accepted to KDD 2026 and 1 paper accepted to ACL 2026 CustomNLP workshop
 * **April 2026** - 1 position paper accepted to ICML 2026 
 * **April 2026** - 1 paper (TDA Survey) accepted to KDD Explorations journal
